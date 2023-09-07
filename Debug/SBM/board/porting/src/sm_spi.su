@@ -1,0 +1,5 @@
+sm_spi.c:26:19:spi_read	32	static
+sm_spi.c:30:19:spi_write	32	static
+sm_spi.c:34:19:spi_write_read	40	static
+sm_spi.c:38:19:spi_open	16	static
+sm_spi.c:42:19:spi_close	16	static

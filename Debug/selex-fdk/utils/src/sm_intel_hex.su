@@ -1,0 +1,7 @@
+sm_intel_hex.c:18:12:intel_hex_process	32	static
+sm_intel_hex.c:43:9:intel_hex_checksum	24	static
+sm_intel_hex.c:55:16:byte_to_hex	24	static
+sm_intel_hex.c:74:5:string_to_hex	56	static
+sm_intel_hex.c:92:10:byte_to_hardword	16	static
+sm_intel_hex.c:96:10:byte_to_word	24	static
+sm_intel_hex.c:103:10:byte_to_word_cr	24	static

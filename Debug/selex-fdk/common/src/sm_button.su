@@ -1,0 +1,2 @@
+sm_button.c:19:6:sm_button_init	16	static
+sm_button.c:27:13:sm_button_update	24	static

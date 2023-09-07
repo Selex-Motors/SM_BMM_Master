@@ -1,0 +1,4 @@
+sm_stack.c:12:6:sm_stack_init	24	static
+sm_stack.c:23:9:sm_stack_push	16	static
+sm_stack.c:30:9:sm_stack_pop	16	static
+sm_stack.c:37:9:sm_stack_deinit	16	static

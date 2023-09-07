@@ -1,0 +1,9 @@
+sm_elapsed_timer.h:21:20:elapsed_timer_reset	16	static
+sm_elapsed_timer.h:25:20:elapsed_timer_resetz	16	static
+sm_elapsed_timer.h:34:23:elapsed_timer_get_remain	24	static
+sm_sch_task.c:131:11:sm_sch_create	16	static
+sm_sch_task.c:147:11:sm_sch_create_default	8	static
+sm_sch_task.c:152:9:sm_sch_free	24	static
+sm_sch_task.c:164:9:sm_sch_start_task	24	static
+sm_sch_task.c:185:9:sm_sch_cancel_task	16	static
+sm_sch_task.c:197:9:sm_sch_process	24	static

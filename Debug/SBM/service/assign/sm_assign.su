@@ -1,0 +1,7 @@
+sm_assign.h:52:20:sm_assign_id_selected	16	static
+sm_assign.h:56:20:sm_assign_send_cob_id	16	static
+sm_assign.h:60:20:sm_assign_recv_confirm	16	static
+sm_assign.c:14:14:sm_assign_new	16	static
+sm_assign.c:18:6:sm_assign_init	24	static
+sm_assign.c:25:6:sm_assign_set_state	16	static
+sm_assign.c:50:6:sm_assign_process	16	static

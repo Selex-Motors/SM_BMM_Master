@@ -1,0 +1,2 @@
+sm_fileconfig.h:18:22:rm_littlefs_fopen	32	static
+sm_config_sv.c:12:9:sm_config_init	16	static

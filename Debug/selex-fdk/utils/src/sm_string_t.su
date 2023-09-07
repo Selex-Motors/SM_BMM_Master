@@ -1,0 +1,8 @@
+sm_string_t.c:16:11:string_create	24	static
+sm_string_t.c:29:11:string_createz	16	static
+sm_string_t.c:33:6:string_dispose	16	static
+sm_string_t.c:40:6:string_clear	16	static
+sm_string_t.c:48:6:string_equals	16	static
+sm_string_t.c:59:6:string_equalsz	16	static
+sm_string_t.c:63:11:string_append	32	static
+sm_string_t.c:79:11:string_appendz	16	static

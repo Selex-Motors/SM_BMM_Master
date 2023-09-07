@@ -1,0 +1,7 @@
+CO_utils.h:45:24:CO_getUint16	24	static
+CO_utils.h:61:20:CO_setUint16	24	static
+CO_CAN_Msg.h:112:20:CO_CAN_send	16	static
+CO_SYNC.c:34:6:CO_SYNC_init	16	static
+CO_SYNC.c:52:6:CO_SYNC_process	24	static
+CO_SYNC.c:101:20:CO_SYNC_send	16	static
+CO_SYNC.c:107:20:CO_SYNC_update_aux_sync_reg	16	static

@@ -1,0 +1,5 @@
+sm_bsp_iic.c:17:15:sm_bsp_iic_init	24	static
+sm_bsp_iic.c:26:6:sm_bsp_iic_deinit	24	static
+sm_bsp_iic.c:37:9:sm_bsp_iic_callback	24	static
+sm_bsp_iic.c:43:9:sm_bsp_iic_write	32	static
+sm_bsp_iic.c:59:9:sm_bsp_iic_read	32	static

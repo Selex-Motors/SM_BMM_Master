@@ -1,0 +1,8 @@
+sm_uart.c:29:19:uart_write	24	static
+sm_uart.c:33:19:uart_set_baudrate	16	static
+sm_uart.c:37:19:uart_set_parity	16	static
+sm_uart.c:41:19:uart_set_databit	16	static
+sm_uart.c:45:19:uart_open	16	static
+sm_uart.c:49:19:uart_close	16	static
+sm_uart.c:53:19:uart_abort_rx	16	static
+sm_uart.c:57:19:uart_abort_tx	16	static

@@ -1,0 +1,4 @@
+sm_link_list.c:14:15:list_new	24	static
+sm_link_list.c:24:6:list_delete	24	static
+sm_link_list.c:32:9:list_add	24	static
+sm_link_list.c:48:9:list_remove	32	static

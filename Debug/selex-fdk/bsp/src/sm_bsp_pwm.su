@@ -1,0 +1,2 @@
+sm_bsp_pwm.c:13:15:sm_bsp_pwm_init	24	static
+sm_bsp_pwm.c:21:6:sm_bsp_pwm_deinit	24	static

@@ -1,0 +1,5 @@
+sm_http_header.c:13:19:sm_http_header_new	24	static
+sm_http_header.c:25:19:sm_http_header_delete	24	static
+sm_http_header.c:37:9:sm_http_header_add	24	static
+sm_http_header.c:46:9:sm_http_header_remove	24	static
+sm_http_header.c:60:19:sm_http_header_find	16	static

@@ -1,0 +1,6 @@
+CO_config.h:56:20:CO_detect_error	8	static
+CO_OD.h:184:30:CO_OD_get_sub_object_pointer	16	static
+CO_PDO.c:20:6:CO_PDO_init	24	static
+CO_PDO.c:31:6:CO_PDO_set_mapping_parameter	24	static
+CO_PDO.c:47:6:CO_PDO_mapping	48	static
+CO_PDO.c:94:20:CO_PDO_mapping_fail_handle	24	static

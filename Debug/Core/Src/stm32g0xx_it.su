@@ -1,0 +1,6 @@
+stm32g0xx_it.c:74:6:NMI_Handler	8	static
+stm32g0xx_it.c:89:6:HardFault_Handler	8	static
+stm32g0xx_it.c:111:6:USB_UCPD1_2_IRQHandler	8	static
+stm32g0xx_it.c:125:6:TIM6_DAC_LPTIM1_IRQHandler	8	static
+stm32g0xx_it.c:139:6:I2C1_IRQHandler	8	static
+stm32g0xx_it.c:157:6:USART1_IRQHandler	8	static

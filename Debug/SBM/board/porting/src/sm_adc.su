@@ -1,0 +1,4 @@
+sm_adc.c:19:16:adc_start	16	static
+sm_adc.c:24:16:adc_stop	16	static
+sm_adc.c:29:16:adc_open	16	static
+sm_adc.c:34:16:adc_close	16	static

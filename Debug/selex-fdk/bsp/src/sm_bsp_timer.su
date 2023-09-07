@@ -1,0 +1,5 @@
+sm_bsp_timer.c:14:17:sm_bsp_timer_init	32	static
+sm_bsp_timer.c:28:6:sm_bsp_timer_deinit	24	static
+sm_bsp_timer.c:36:13:timer_callback	24	static
+sm_bsp_timer.c:41:6:sm_bsp_timer_set_callback	32	static
+sm_bsp_timer.c:47:6:sm_bsp_timer_callback	24	static

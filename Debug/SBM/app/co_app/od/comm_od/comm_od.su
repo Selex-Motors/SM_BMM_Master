@@ -1,0 +1,12 @@
+CO_SDO.h:164:20:CO_SDO_set_tx_abort_code	16	static
+CO_FLASH.h:71:20:CO_FLASH_error_handle	16	static
+CO_OD_sign.h:48:20:CO_OD_SIGN_set_crc16_comm_para	16	static
+CO_OD_sign.h:52:20:CO_OD_SIGN_set_crc16_app_para	16	static
+CO_OD_storage.h:93:20:CO_OD_STORAGE_update_crc16_comm_from_data_in_ram	32	static
+CO_OD_storage.h:99:20:CO_OD_STORAGE_update_crc16_app_from_data_in_ram	32	static
+comm_od.c:91:41:confirm_func_0x101000_check_validity_of_store_all_para_command_impl	16	static
+comm_od.c:129:41:confirm_func_0x101001_check_validity_of_store_comm_para_command_impl	16	static
+comm_od.c:166:41:confirm_func_0x101002_check_validity_of_store_app_para_command_impl	16	static
+comm_od.c:212:41:confirm_func_0x101100_check_validity_of_restore_all_para_command_impl	16	static
+comm_od.c:236:41:confirm_func_0x101101_check_validity_of_restore_comm_para_command_impl	16	static
+comm_od.c:259:41:confirm_func_0x101102_check_validity_of_restore_app_para_command_impl	16	static

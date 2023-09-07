@@ -1,0 +1,6 @@
+sm_bsp_io.c:5:14:sm_bsp_io_init	32	static
+sm_bsp_io.c:12:6:sm_bsp_io_deinit	16	static
+sm_bsp_io.c:18:9:sm_bsp_io_set_value	16	static
+sm_bsp_io.c:21:9:sm_bsp_io_get_value	16	static
+sm_bsp_io.c:24:9:sm_bsp_io_open	16	static
+sm_bsp_io.c:27:9:sm_bsp_io_close	16	static

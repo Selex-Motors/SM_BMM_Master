@@ -1,0 +1,3 @@
+sm_datetime_unix.c:8:9:get_timestamp	8	static
+sm_datetime_unix.c:12:13:get_timestamp_string	16	static
+sm_datetime_unix.c:20:13:get_current_time	24	static

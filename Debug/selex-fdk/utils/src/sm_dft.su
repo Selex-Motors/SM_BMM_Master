@@ -1,0 +1,2 @@
+sm_dft.c:12:6:sm_calculateDFT	80	static
+sm_dft.c:37:8:sm_calculateFreq	56	static

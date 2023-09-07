@@ -1,0 +1,9 @@
+sm_crc.c:42:6:CRC_Init	8	static
+sm_crc.c:48:9:CRC_CalculateCRC8	24	static
+sm_crc.c:106:10:CRC_CalculateCRC16	32	static
+sm_crc.c:163:10:CRC_CalculateCRC32	32	static
+sm_crc.c:226:13:CRC_CalculateCRC8Table	8	static
+sm_crc.c:253:13:CRC_CalculateCRC16Table	16	static
+sm_crc.c:283:13:CRC_CalculateCRC32Table	8	static
+sm_crc.c:310:16:CRC_ReverseBitOrder8	16	static
+sm_crc.c:320:17:CRC_ReverseBitOrder32	24	static

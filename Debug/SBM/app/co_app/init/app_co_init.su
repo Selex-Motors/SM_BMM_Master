@@ -1,0 +1,17 @@
+CO_utils.h:27:20:CO_memcpy	32	static
+CO_CAN_Msg.h:107:20:CO_CAN_set_can_send_interface	16	static
+CO.h:82:20:CO_can_receive_basic_handle	24	static
+app_co_init.c:46:13:tpdo1_build_data_impl	16	static
+app_co_init.c:55:13:tpdo2_build_data_impl	16	static
+app_co_init.c:71:13:tpdo3_build_data_impl	16	static
+app_co_init.c:87:13:tpdo4_build_data_impl	16	static
+app_co_init.c:95:13:tpdo5_build_data_impl	16	static
+app_co_init.c:111:13:tpdo6_build_data_impl	16	static
+app_co_init.c:127:13:tpdo7_build_data_impl	16	static
+app_co_init.c:135:13:app_co_can_send_impl	16	static
+app_co_init.c:146:6:app_co_can_receive	16	static
+app_co_init.c:185:6:can_receive_task	16	static
+app_co_init.c:193:8:app_co_erase_and_write_data_to_flash_impl	24	static
+app_co_init.c:199:6:app_co_flash_error_handle_impl	8	static
+app_co_init.c:205:6:app_co_set_can_baudrate_impl	16	static
+app_co_init.c:210:6:app_co_init	32	static

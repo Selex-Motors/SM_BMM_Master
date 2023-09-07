@@ -1,0 +1,5 @@
+CO_utils.h:27:20:CO_memcpy	32	static
+CO_utils.h:35:20:CO_memcmp	32	static
+CO_FLASH.c:16:6:CO_FLASH_init	24	static
+CO_FLASH.c:100:8:CO_FLASH_erase_and_write_to_flash	32	static
+CO_FLASH.c:124:8:CO_FLASH_read	24	static

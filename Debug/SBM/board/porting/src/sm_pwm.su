@@ -1,0 +1,6 @@
+sm_pwm.c:24:19:pwm_set_frequency	16	static
+sm_pwm.c:28:19:pwm_set_dutycycles	16	static
+sm_pwm.c:32:19:pwm_start	16	static
+sm_pwm.c:36:19:pwm_stop	16	static
+sm_pwm.c:40:19:pwm_open	16	static
+sm_pwm.c:44:19:pwm_close	16	static

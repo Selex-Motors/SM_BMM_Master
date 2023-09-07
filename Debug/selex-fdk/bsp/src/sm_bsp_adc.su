@@ -1,0 +1,7 @@
+sm_bsp_adc.c:16:15:sm_bsp_adc_init	32	static
+sm_bsp_adc.c:29:6:sm_bsp_adc_deinit	24	static
+sm_bsp_adc.c:35:13:adc_callback	24	static
+sm_bsp_adc.c:40:10:sm_bsp_adc_read	24	static
+sm_bsp_adc.c:45:6:sm_bsp_adc_callback	24	static
+sm_bsp_adc.c:50:9:sm_bsp_adc_open	16	static
+sm_bsp_adc.c:53:9:sm_bsp_adc_close	16	static

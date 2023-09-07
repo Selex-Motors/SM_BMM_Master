@@ -1,0 +1,2 @@
+sm_led.c:11:6:sm_led_init	16	static
+sm_led.c:17:9:sm_led_set_state	16	static

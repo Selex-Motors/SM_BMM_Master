@@ -1,0 +1,3 @@
+[submodule "selex-fdk"]
+	path = selex-fdk
+	url = git@github.com:Selex-Motors/selex-fdk.git

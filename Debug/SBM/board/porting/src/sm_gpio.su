@@ -1,0 +1,4 @@
+sm_gpio.c:25:16:gpio_open	16	static
+sm_gpio.c:30:16:gpio_close	16	static
+sm_gpio.c:34:16:gpio_set_value	16	static
+sm_gpio.c:39:16:gpio_get_value	16	static

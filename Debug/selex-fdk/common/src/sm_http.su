@@ -1,0 +1,12 @@
+sm_http.c:17:13:sm_http_client_packet	40	static
+sm_http.c:56:9:sm_http_client_init	40	static
+sm_http.c:87:9:sm_http_client_deinit	24	static
+sm_http.c:98:9:sm_http_client_perform	40	static
+sm_http.c:147:9:sm_http_client_set_header	32	static
+sm_http.c:166:9:sm_http_client_get_header	32	static
+sm_http.c:185:9:sm_http_client_delete_header	16	static
+sm_http.c:195:9:sm_http_client_set_url	16	static
+sm_http.c:210:9:sm_http_client_set_method	24	static
+sm_http.c:223:22:sm_http_client_get_status_code	24	static
+sm_http.c:242:10:sm_http_client_get_content_length	16	static
+sm_http.c:246:9:sm_http_client_parser	48	static

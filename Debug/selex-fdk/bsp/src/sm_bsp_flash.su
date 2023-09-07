@@ -1,0 +1,2 @@
+sm_bsp_flash.c:5:17:sm_bsp_flash_init	24	static
+sm_bsp_flash.c:14:6:sm_bsp_flash_deinit	16	static

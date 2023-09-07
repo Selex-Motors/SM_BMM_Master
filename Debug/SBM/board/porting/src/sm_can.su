@@ -1,0 +1,4 @@
+sm_can.c:21:16:can_write	16	static
+sm_can.c:29:16:can_set_baud	16	static
+sm_can.c:35:16:can_open	16	static
+sm_can.c:40:16:can_close	16	static

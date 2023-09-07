@@ -1,0 +1,7 @@
+sm_event.c:31:6:sm_event_init	8	static
+sm_event.c:36:6:sm_event_process	8	static
+sm_event.c:41:13:sm_event_connect	32	static
+sm_event.c:54:6:sm_event_disconnect	16	static
+sm_event.c:59:13:sm_event_run	40	static
+sm_event.c:84:6:sm_signal_init	16	static
+sm_event.c:88:6:sm_signal_push	16	static

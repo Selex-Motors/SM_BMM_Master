@@ -1,0 +1,6 @@
+sm_iic.c:27:16:iic_open	16	static
+sm_iic.c:32:16:iic_close	16	static
+sm_iic.c:38:16:iic_write	24	static
+sm_iic.c:43:16:iic_read	24	static
+sm_iic.c:48:16:iic_abort	16	static
+sm_iic.c:53:16:iic_set_addr	16	static

@@ -1,0 +1,9 @@
+sm_host.c:41:12:sm_host_create	24	static
+sm_host.c:67:12:sm_host_create_default	16	static
+sm_host.c:89:9:sm_host_destroy	16	static
+sm_host.c:105:9:sm_host_set_addr	16	static
+sm_host.c:112:9:sm_host_reg_handle	24	static
+sm_host.c:122:9:sm_host_send_cmd	1080	static
+sm_host.c:155:9:sm_host_send_response	1080	static
+sm_host.c:189:6:sm_host_process	40	static
+sm_host.c:235:9:sm_host_asyn_feed	40	static

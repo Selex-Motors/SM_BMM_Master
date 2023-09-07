@@ -1,0 +1,4 @@
+sm_logger.c:34:9:logger_init	16	static
+sm_logger.c:41:9:logger_set_level	16	static
+sm_logger.c:46:11:logger_get_level	8	static
+sm_logger.c:50:6:logger_show	1080	static

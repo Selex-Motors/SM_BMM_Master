@@ -1,0 +1,5 @@
+sm_timer.c:23:19:timer_start	16	static
+sm_timer.c:27:19:timer_stop	16	static
+sm_timer.c:31:19:timer_set_perios	16	static
+sm_timer.c:35:19:timer_open	16	static
+sm_timer.c:39:19:timer_close	16	static

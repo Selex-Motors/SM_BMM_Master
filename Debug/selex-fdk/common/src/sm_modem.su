@@ -1,0 +1,6 @@
+sm_modem.c:14:6:sm_modem_init	24	static
+sm_modem.c:26:6:sm_modem_deinit	16	static
+sm_modem.c:30:9:sm_modem_send_cmd	48	static
+sm_modem.c:63:9:sm_modem_send_data	32	static
+sm_modem.c:74:6:sm_modem_hw_reset	24	static
+sm_modem.c:86:8:sm_modem_read	32	static

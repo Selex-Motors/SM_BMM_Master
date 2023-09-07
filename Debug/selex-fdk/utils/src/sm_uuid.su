@@ -1,0 +1,2 @@
+sm_uuid.c:8:7:rand_string	72	static
+sm_uuid.c:23:13:get_uuid	40	static

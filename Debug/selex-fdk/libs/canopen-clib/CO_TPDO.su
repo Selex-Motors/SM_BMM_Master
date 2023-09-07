@@ -1,0 +1,10 @@
+CO_CAN_Msg.h:112:20:CO_CAN_send	16	static
+CO_config.h:56:20:CO_detect_error	8	static
+CO_SYNC.h:62:20:CO_SYNC_is_match_sync_mask_reg	16	static
+CO_TPDO.c:5:6:CO_TPDO_init	24	static
+CO_TPDO.c:45:13:CO_TPDO_send	24	static
+CO_TPDO.c:72:6:CO_TPDO_process	16	static
+CO_TPDO.c:130:6:tpdo_build_data_impl_default	16	static
+CO_TPDO.c:143:6:CO_TPDO_set_node_id	32	static
+CO_TPDO.c:151:6:CO_TPDO_set_transmission_type	24	static
+CO_TPDO.c:159:6:CO_TPDO_set_sync_mask_reg	24	static

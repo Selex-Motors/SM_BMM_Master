@@ -1,0 +1,5 @@
+sm_flash.c:22:16:flash_write	24	static
+sm_flash.c:27:16:flash_read	24	static
+sm_flash.c:32:16:flash_erase	24	static
+sm_flash.c:37:16:flash_open	16	static
+sm_flash.c:42:16:flash_close	16	static

@@ -1,0 +1,4 @@
+sm_map.c:12:6:sm_map_init	40	static
+sm_map.c:25:6:sm_map_insert	40	static
+sm_map.c:39:7:sm_map_search	32	static
+sm_map.c:47:6:sm_map_deinit	32	static

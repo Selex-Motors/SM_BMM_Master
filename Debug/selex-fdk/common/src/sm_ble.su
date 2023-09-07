@@ -1,0 +1,5 @@
+sm_ble.h:49:20:sm_ble_set_state	16	static
+sm_ble.h:53:30:sm_ble_get_state	16	static
+sm_ble.c:12:11:sm_ble_init	32	static
+sm_ble.c:31:6:sm_ble_keygen	24	static
+sm_ble.c:38:6:sm_ble_process	32	static
