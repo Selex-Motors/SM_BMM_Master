@@ -1,0 +1,11 @@
+sm_bootloader_t.c:10:10:sm_crc16	16	static
+sm_bootloader_t.c:13:6:sm_boot_init	24	static
+sm_bootloader_t.c:24:6:sm_boot_process	32	static
+sm_bootloader_t.c:161:9:sm_boot_get_command_opcode	40	static
+sm_bootloader_t.c:169:6:sm_boot_get_command	16	static
+sm_bootloader_t.c:173:6:sm_boot_get_version	16	static
+sm_bootloader_t.c:180:6:sm_boot_get_id	16	static
+sm_bootloader_t.c:187:6:sm_boot_read_memory	16	static
+sm_bootloader_t.c:190:6:sm_boot_write_memory	16	static
+sm_bootloader_t.c:193:6:sm_boot_erase_memory	16	static
+sm_bootloader_t.c:196:6:sm_boot_go	16	static

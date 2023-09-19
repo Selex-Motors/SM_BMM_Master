@@ -52,7 +52,10 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
  ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.h \
  ../USB_Device/App/usb_device.h \
  ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h \
- ../USB_Device/Target/usbd_conf.h
+ ../USB_Device/Target/usbd_conf.h \
+ C:/Users/Admin/STM32CubeIDE/workspace_1.6.0/Selex_Battery_Module/selex-fdk/utils/include/sm_fifo.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
 
 ../Core/Inc/main.h:
 
@@ -163,3 +166,9 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
 ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h:
 
 ../USB_Device/Target/usbd_conf.h:
+
+C:/Users/Admin/STM32CubeIDE/workspace_1.6.0/Selex_Battery_Module/selex-fdk/utils/include/sm_fifo.h:
+
+../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h:
+
+../Middlewares/Third_Party/FreeRTOS/Source/include/task.h:

@@ -1,11 +1,19 @@
 Archive member included to satisfy reference by file (symbol)
 
+c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++_nano.a(del_ops.o)
+                              SBM/app/sbm_app/BatteryModule.o (operator delete(void*, unsigned int))
+c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++_nano.a(del_op.o)
+                              c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++_nano.a(del_ops.o) (operator delete(void*))
 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_cos.o)
                               selex-fdk/utils/src/sm_dft.o (cos)
 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_sin.o)
                               selex-fdk/utils/src/sm_dft.o (sin)
+c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_exp.o)
+                              selex-fdk/utils/src/sm_lowpass_filter.o (exp)
 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_sqrt.o)
                               selex-fdk/utils/src/sm_dft.o (sqrt)
+c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_exp.o)
+                              c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_exp.o) (__ieee754_exp)
 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_rem_pio2.o)
                               c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_cos.o) (__ieee754_rem_pio2)
 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_sqrt.o)
@@ -18,10 +26,12 @@ c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externalt
                               c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_cos.o) (__kernel_sin)
 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_fabs.o)
                               c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_rem_pio2.o) (fabs)
+c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_finite.o)
+                              c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_exp.o) (finite)
 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_floor.o)
                               c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-k_rem_pio2.o) (floor)
 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_lib_ver.o)
-                              c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_sqrt.o) (__fdlib_version)
+                              c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_exp.o) (__fdlib_version)
 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_scalbn.o)
                               c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-k_rem_pio2.o) (scalbn)
 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-assert.o)
@@ -250,12 +260,20 @@ c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externalt
                               c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(bpabi.o)
                               c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_aeabi_ldivmod.o) (__gnu_ldivmod_helper)
+c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(addsf3.o)
+                              selex-fdk/utils/src/sm_lowpass_filter.o (__aeabi_fadd)
+c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(divsf3.o)
+                              selex-fdk/utils/src/sm_lowpass_filter.o (__aeabi_fdiv)
 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(eqsf2.o)
                               c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpsf2.o) (__eqsf2)
 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(gesf2.o)
                               c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpsf2.o) (__gesf2)
 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(lesf2.o)
                               c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpsf2.o) (__lesf2)
+c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+                              selex-fdk/utils/src/sm_lowpass_filter.o (__aeabi_fmul)
+c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(subsf3.o)
+                              selex-fdk/utils/src/sm_lowpass_filter.o (__aeabi_fsub)
 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(unordsf2.o)
                               c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strtod.o) (__aeabi_fcmpun)
 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(floatunsisf.o)
@@ -285,7 +303,7 @@ c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externalt
 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(extendsfdf2.o)
                               selex-fdk/thirdparties/cJSON/cJSON.o (__aeabi_f2d)
 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(truncdfsf2.o)
-                              c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strtod.o) (__aeabi_d2f)
+                              selex-fdk/utils/src/sm_lowpass_filter.o (__aeabi_d2f)
 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_clzdi2.o)
                               c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o) (__clzdi2)
 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_divdi3.o)
@@ -319,12 +337,11 @@ __lock___malloc_recursive_mutex
                     0x1               c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-lock.o)
 hex_data            0x20              selex-fdk/utils/src/sm_intel_hex.o
 co_storage          0x4c              selex-fdk/libs/canopen-clib/CO_OD_storage.o
+lfs                 0x4               selex-fdk/cores/src/sm_filesystem.o
 huart1              0x90              Core/Src/main.o
 UserTxBufferFS      0x800             USB_Device/App/usbd_cdc_if.o
 hfdcan1             0x64              Core/Src/main.o
 htim6               0x4c              Core/Src/stm32g0xx_hal_timebase_tim.o
-SM_STDIO_LITTLEFS_CFG_LFS
-                    0x78              selex-fdk/cores/src/sm_filesystem.o
 this                0x4               selex-fdk/bsp/src/sm_bsp_can.o
 result              0x2               selex-fdk/common/src/sm_spi_flash.o
 hspi1               0x64              Core/Src/main.o
@@ -433,6 +450,8 @@ Discarded input sections
  .bss           0x0000000000000000        0x0 Core/Src/app_freertos.o
  .rodata.CHANNEL_OFFSET_TAB
                 0x0000000000000000        0x7 Core/Src/app_freertos.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
+ .group         0x0000000000000000        0xc Core/Src/main.o
  .group         0x0000000000000000        0xc Core/Src/main.o
  .group         0x0000000000000000        0xc Core/Src/main.o
  .group         0x0000000000000000        0xc Core/Src/main.o
@@ -6684,6 +6703,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x4bf Middlewares/Third_Party/FreeRTOS/Source/queue.o
  .debug_macro   0x0000000000000000       0xb5 Middlewares/Third_Party/FreeRTOS/Source/queue.o
  .debug_macro   0x0000000000000000       0xaa Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .debug_macro   0x0000000000000000       0x87 Middlewares/Third_Party/FreeRTOS/Source/queue.o
  .group         0x0000000000000000        0xc Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.o
  .group         0x0000000000000000        0xc Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.o
  .group         0x0000000000000000        0xc Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.o
@@ -7297,6 +7317,8 @@ Discarded input sections
  .group         0x0000000000000000        0xc SBM/app/co_app/init/app_co_init.o
  .group         0x0000000000000000        0xc SBM/app/co_app/init/app_co_init.o
  .group         0x0000000000000000        0xc SBM/app/co_app/init/app_co_init.o
+ .group         0x0000000000000000        0xc SBM/app/co_app/init/app_co_init.o
+ .group         0x0000000000000000        0xc SBM/app/co_app/init/app_co_init.o
  .text          0x0000000000000000        0x0 SBM/app/co_app/init/app_co_init.o
  .data          0x0000000000000000        0x0 SBM/app/co_app/init/app_co_init.o
  .bss           0x0000000000000000        0x0 SBM/app/co_app/init/app_co_init.o
@@ -7342,7 +7364,7 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0xa0 SBM/app/co_app/init/app_co_init.o
  .debug_ranges  0x0000000000000000       0x90 SBM/app/co_app/init/app_co_init.o
- .debug_macro   0x0000000000000000      0x47a SBM/app/co_app/init/app_co_init.o
+ .debug_macro   0x0000000000000000      0x478 SBM/app/co_app/init/app_co_init.o
  .debug_macro   0x0000000000000000      0xa84 SBM/app/co_app/init/app_co_init.o
  .debug_macro   0x0000000000000000       0x22 SBM/app/co_app/init/app_co_init.o
  .debug_macro   0x0000000000000000       0x8e SBM/app/co_app/init/app_co_init.o
@@ -7409,8 +7431,10 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0xaa SBM/app/co_app/init/app_co_init.o
  .debug_macro   0x0000000000000000       0x87 SBM/app/co_app/init/app_co_init.o
  .debug_macro   0x0000000000000000       0x2e SBM/app/co_app/init/app_co_init.o
+ .debug_macro   0x0000000000000000       0x10 SBM/app/co_app/init/app_co_init.o
+ .debug_macro   0x0000000000000000       0x10 SBM/app/co_app/init/app_co_init.o
  .debug_line    0x0000000000000000      0xef3 SBM/app/co_app/init/app_co_init.o
- .debug_str     0x0000000000000000     0xeb79 SBM/app/co_app/init/app_co_init.o
+ .debug_str     0x0000000000000000     0xeba1 SBM/app/co_app/init/app_co_init.o
  .comment       0x0000000000000000       0x54 SBM/app/co_app/init/app_co_init.o
  .debug_frame   0x0000000000000000      0x230 SBM/app/co_app/init/app_co_init.o
  .ARM.attributes
@@ -8041,6 +8065,153 @@ Discarded input sections
  .ARM.attributes
                 0x0000000000000000       0x2c SBM/app/co_app/od/od.o
  COMMON         0x0000000000000000        0x1 SBM/app/co_app/od/od.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/app/sbm_app/BatteryModule.o
+ .text          0x0000000000000000        0x0 SBM/app/sbm_app/BatteryModule.o
+ .data          0x0000000000000000        0x0 SBM/app/sbm_app/BatteryModule.o
+ .bss           0x0000000000000000        0x0 SBM/app/sbm_app/BatteryModule.o
+ .text._ZN13BatteryModuleC2Ev
+                0x0000000000000000       0x28 SBM/app/sbm_app/BatteryModule.o
+ .text._ZN13BatteryModuleD2Ev
+                0x0000000000000000       0x1c SBM/app/sbm_app/BatteryModule.o
+ .text._ZN13BatteryModuleD0Ev
+                0x0000000000000000       0x24 SBM/app/sbm_app/BatteryModule.o
+ .rodata._ZTV13BatteryModule
+                0x0000000000000000       0x10 SBM/app/sbm_app/BatteryModule.o
+ .debug_info    0x0000000000000000     0x218f SBM/app/sbm_app/BatteryModule.o
+ .debug_abbrev  0x0000000000000000      0x413 SBM/app/sbm_app/BatteryModule.o
+ .debug_aranges
+                0x0000000000000000       0x30 SBM/app/sbm_app/BatteryModule.o
+ .debug_ranges  0x0000000000000000       0x20 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000      0x379 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000      0xb5c SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x22 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x4c SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x18 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x94 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x3c SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x34 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x16 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x57 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x97 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000      0x35c SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000      0x104 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x10 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x16 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x43 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x34 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x10 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x58 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x71 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x16 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000      0x12a SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x10 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x6a SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x1c SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x52 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x22 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x10 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x40 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0xd5 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x1c SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x3d SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x16 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000      0x137 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x1c SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000      0x103 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000      0x1df SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x16 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000      0x17c SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x10 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000      0x410 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x10 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x16 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x35 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x16 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x29 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x1c SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0xde SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x18 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x4c SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x46 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x10 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x10 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x16 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x88 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x16 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x1c SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x10 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x16 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x20 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x28 SBM/app/sbm_app/BatteryModule.o
+ .debug_macro   0x0000000000000000       0x40 SBM/app/sbm_app/BatteryModule.o
+ .debug_line    0x0000000000000000      0xb2b SBM/app/sbm_app/BatteryModule.o
+ .debug_str     0x0000000000000000     0xba21 SBM/app/sbm_app/BatteryModule.o
+ .comment       0x0000000000000000       0x54 SBM/app/sbm_app/BatteryModule.o
+ .debug_frame   0x0000000000000000       0x70 SBM/app/sbm_app/BatteryModule.o
+ .ARM.attributes
+                0x0000000000000000       0x2c SBM/app/sbm_app/BatteryModule.o
+ .group         0x0000000000000000        0xc SBM/board/board.o
+ .group         0x0000000000000000        0xc SBM/board/board.o
  .group         0x0000000000000000        0xc SBM/board/board.o
  .group         0x0000000000000000        0xc SBM/board/board.o
  .group         0x0000000000000000        0xc SBM/board/board.o
@@ -8148,7 +8319,7 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x20 SBM/board/board.o
  .debug_ranges  0x0000000000000000       0x10 SBM/board/board.o
- .debug_macro   0x0000000000000000      0x53f SBM/board/board.o
+ .debug_macro   0x0000000000000000      0x53d SBM/board/board.o
  .debug_macro   0x0000000000000000      0xa84 SBM/board/board.o
  .debug_macro   0x0000000000000000       0x22 SBM/board/board.o
  .debug_macro   0x0000000000000000       0x8e SBM/board/board.o
@@ -8202,6 +8373,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0xaa SBM/board/board.o
  .debug_macro   0x0000000000000000       0x87 SBM/board/board.o
  .debug_macro   0x0000000000000000       0x2e SBM/board/board.o
+ .debug_macro   0x0000000000000000       0x10 SBM/board/board.o
+ .debug_macro   0x0000000000000000       0x10 SBM/board/board.o
  .debug_macro   0x0000000000000000      0x148 SBM/board/board.o
  .debug_macro   0x0000000000000000       0x2e SBM/board/board.o
  .debug_macro   0x0000000000000000       0x28 SBM/board/board.o
@@ -8245,7 +8418,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0xa6 SBM/board/board.o
  .debug_macro   0x0000000000000000      0x5df SBM/board/board.o
  .debug_line    0x0000000000000000      0xd7b SBM/board/board.o
- .debug_str     0x0000000000000000    0xc5eeb SBM/board/board.o
+ .debug_str     0x0000000000000000    0xc5f13 SBM/board/board.o
  .comment       0x0000000000000000       0x54 SBM/board/board.o
  .debug_frame   0x0000000000000000       0x2c SBM/board/board.o
  .ARM.attributes
@@ -9653,7 +9826,7 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x40 SBM/board/porting/src/sm_timer.o
  .debug_ranges  0x0000000000000000       0x30 SBM/board/porting/src/sm_timer.o
- .debug_macro   0x0000000000000000      0x1d1 SBM/board/porting/src/sm_timer.o
+ .debug_macro   0x0000000000000000      0x1d7 SBM/board/porting/src/sm_timer.o
  .debug_macro   0x0000000000000000      0xa84 SBM/board/porting/src/sm_timer.o
  .debug_macro   0x0000000000000000       0x22 SBM/board/porting/src/sm_timer.o
  .debug_macro   0x0000000000000000       0x8e SBM/board/porting/src/sm_timer.o
@@ -9690,7 +9863,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x16 SBM/board/porting/src/sm_timer.o
  .debug_macro   0x0000000000000000      0x145 SBM/board/porting/src/sm_timer.o
  .debug_line    0x0000000000000000      0x64c SBM/board/porting/src/sm_timer.o
- .debug_str     0x0000000000000000     0x8151 SBM/board/porting/src/sm_timer.o
+ .debug_str     0x0000000000000000     0x8169 SBM/board/porting/src/sm_timer.o
  .comment       0x0000000000000000       0x54 SBM/board/porting/src/sm_timer.o
  .debug_frame   0x0000000000000000       0xb0 SBM/board/porting/src/sm_timer.o
  .ARM.attributes
@@ -9817,7 +9990,7 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x58 SBM/board/porting/src/sm_uart.o
  .debug_ranges  0x0000000000000000       0x48 SBM/board/porting/src/sm_uart.o
- .debug_macro   0x0000000000000000      0x4ae SBM/board/porting/src/sm_uart.o
+ .debug_macro   0x0000000000000000      0x4b4 SBM/board/porting/src/sm_uart.o
  .debug_macro   0x0000000000000000      0xa84 SBM/board/porting/src/sm_uart.o
  .debug_macro   0x0000000000000000       0x22 SBM/board/porting/src/sm_uart.o
  .debug_macro   0x0000000000000000       0x4c SBM/board/porting/src/sm_uart.o
@@ -9913,7 +10086,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0xa6 SBM/board/porting/src/sm_uart.o
  .debug_macro   0x0000000000000000      0x5df SBM/board/porting/src/sm_uart.o
  .debug_line    0x0000000000000000      0xcaf SBM/board/porting/src/sm_uart.o
- .debug_str     0x0000000000000000    0xc5292 SBM/board/porting/src/sm_uart.o
+ .debug_str     0x0000000000000000    0xc52a2 SBM/board/porting/src/sm_uart.o
  .comment       0x0000000000000000       0x54 SBM/board/porting/src/sm_uart.o
  .debug_frame   0x0000000000000000      0x110 SBM/board/porting/src/sm_uart.o
  .ARM.attributes
@@ -10077,20 +10250,21 @@ Discarded input sections
  .group         0x0000000000000000        0xc SBM/service/config/sm_config_sv.o
  .group         0x0000000000000000        0xc SBM/service/config/sm_config_sv.o
  .group         0x0000000000000000        0xc SBM/service/config/sm_config_sv.o
+ .group         0x0000000000000000        0xc SBM/service/config/sm_config_sv.o
  .text          0x0000000000000000        0x0 SBM/service/config/sm_config_sv.o
  .data          0x0000000000000000        0x0 SBM/service/config/sm_config_sv.o
  .bss           0x0000000000000000        0x0 SBM/service/config/sm_config_sv.o
  .text.rm_littlefs_fopen
-                0x0000000000000000       0x5c SBM/service/config/sm_config_sv.o
+                0x0000000000000000       0x60 SBM/service/config/sm_config_sv.o
  .rodata        0x0000000000000000       0x12 SBM/service/config/sm_config_sv.o
  .text.sm_config_init
                 0x0000000000000000       0x68 SBM/service/config/sm_config_sv.o
- .debug_info    0x0000000000000000     0x10e8 SBM/service/config/sm_config_sv.o
- .debug_abbrev  0x0000000000000000      0x22c SBM/service/config/sm_config_sv.o
+ .debug_info    0x0000000000000000     0x10ee SBM/service/config/sm_config_sv.o
+ .debug_abbrev  0x0000000000000000      0x23f SBM/service/config/sm_config_sv.o
  .debug_aranges
                 0x0000000000000000       0x28 SBM/service/config/sm_config_sv.o
  .debug_ranges  0x0000000000000000       0x18 SBM/service/config/sm_config_sv.o
- .debug_macro   0x0000000000000000      0x281 SBM/service/config/sm_config_sv.o
+ .debug_macro   0x0000000000000000      0x2bc SBM/service/config/sm_config_sv.o
  .debug_macro   0x0000000000000000      0xa84 SBM/service/config/sm_config_sv.o
  .debug_macro   0x0000000000000000       0x22 SBM/service/config/sm_config_sv.o
  .debug_macro   0x0000000000000000       0x4c SBM/service/config/sm_config_sv.o
@@ -10138,9 +10312,10 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x29 SBM/service/config/sm_config_sv.o
  .debug_macro   0x0000000000000000       0x28 SBM/service/config/sm_config_sv.o
  .debug_macro   0x0000000000000000      0x10c SBM/service/config/sm_config_sv.o
+ .debug_macro   0x0000000000000000       0x2e SBM/service/config/sm_config_sv.o
  .debug_macro   0x0000000000000000       0x3a SBM/service/config/sm_config_sv.o
- .debug_line    0x0000000000000000      0x7a1 SBM/service/config/sm_config_sv.o
- .debug_str     0x0000000000000000     0x9ec8 SBM/service/config/sm_config_sv.o
+ .debug_line    0x0000000000000000      0x909 SBM/service/config/sm_config_sv.o
+ .debug_str     0x0000000000000000     0x9f81 SBM/service/config/sm_config_sv.o
  .comment       0x0000000000000000       0x54 SBM/service/config/sm_config_sv.o
  .debug_frame   0x0000000000000000       0x50 SBM/service/config/sm_config_sv.o
  .ARM.attributes
@@ -10294,14 +10469,14 @@ Discarded input sections
                 0x0000000000000000       0x18 SBM/service/sbp/sm_sbp.o
  .text.sm_sbp_get_LD_vol
                 0x0000000000000000       0x14 SBM/service/sbp/sm_sbp.o
- .rodata.__func__.7682
+ .rodata.__func__.7692
                 0x0000000000000000        0xb SBM/service/sbp/sm_sbp.o
  .debug_info    0x0000000000000000     0x235c SBM/service/sbp/sm_sbp.o
  .debug_abbrev  0x0000000000000000      0x3ac SBM/service/sbp/sm_sbp.o
  .debug_aranges
                 0x0000000000000000      0x140 SBM/service/sbp/sm_sbp.o
  .debug_ranges  0x0000000000000000      0x130 SBM/service/sbp/sm_sbp.o
- .debug_macro   0x0000000000000000      0x3df SBM/service/sbp/sm_sbp.o
+ .debug_macro   0x0000000000000000      0x3e5 SBM/service/sbp/sm_sbp.o
  .debug_macro   0x0000000000000000      0xa84 SBM/service/sbp/sm_sbp.o
  .debug_macro   0x0000000000000000       0x22 SBM/service/sbp/sm_sbp.o
  .debug_macro   0x0000000000000000       0x4c SBM/service/sbp/sm_sbp.o
@@ -10369,7 +10544,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x87 SBM/service/sbp/sm_sbp.o
  .debug_macro   0x0000000000000000       0x28 SBM/service/sbp/sm_sbp.o
  .debug_line    0x0000000000000000     0x1084 SBM/service/sbp/sm_sbp.o
- .debug_str     0x0000000000000000     0xe45a SBM/service/sbp/sm_sbp.o
+ .debug_str     0x0000000000000000     0xe46a SBM/service/sbp/sm_sbp.o
  .comment       0x0000000000000000       0x54 SBM/service/sbp/sm_sbp.o
  .debug_frame   0x0000000000000000      0x4b4 SBM/service/sbp/sm_sbp.o
  .ARM.attributes
@@ -11144,21 +11319,21 @@ Discarded input sections
  .data          0x0000000000000000        0x0 selex-fdk/bsp/src/sm_bsp_adc.o
  .bss           0x0000000000000000        0x0 selex-fdk/bsp/src/sm_bsp_adc.o
  .text.sm_bsp_adc_init
-                0x0000000000000000       0x54 selex-fdk/bsp/src/sm_bsp_adc.o
+                0x0000000000000000       0x60 selex-fdk/bsp/src/sm_bsp_adc.o
  .text.sm_bsp_adc_deinit
                 0x0000000000000000       0x32 selex-fdk/bsp/src/sm_bsp_adc.o
  .text.adc_callback
-                0x0000000000000000       0x22 selex-fdk/bsp/src/sm_bsp_adc.o
+                0x0000000000000000       0x24 selex-fdk/bsp/src/sm_bsp_adc.o
  .text.sm_bsp_adc_read
-                0x0000000000000000       0x1e selex-fdk/bsp/src/sm_bsp_adc.o
+                0x0000000000000000       0x2a selex-fdk/bsp/src/sm_bsp_adc.o
  .text.sm_bsp_adc_callback
                 0x0000000000000000       0x28 selex-fdk/bsp/src/sm_bsp_adc.o
  .text.sm_bsp_adc_open
                 0x0000000000000000       0x1e selex-fdk/bsp/src/sm_bsp_adc.o
  .text.sm_bsp_adc_close
                 0x0000000000000000       0x1e selex-fdk/bsp/src/sm_bsp_adc.o
- .debug_info    0x0000000000000000      0xc5a selex-fdk/bsp/src/sm_bsp_adc.o
- .debug_abbrev  0x0000000000000000      0x20e selex-fdk/bsp/src/sm_bsp_adc.o
+ .debug_info    0x0000000000000000      0xc4b selex-fdk/bsp/src/sm_bsp_adc.o
+ .debug_abbrev  0x0000000000000000      0x1f0 selex-fdk/bsp/src/sm_bsp_adc.o
  .debug_aranges
                 0x0000000000000000       0x50 selex-fdk/bsp/src/sm_bsp_adc.o
  .debug_ranges  0x0000000000000000       0x40 selex-fdk/bsp/src/sm_bsp_adc.o
@@ -11202,7 +11377,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x35 selex-fdk/bsp/src/sm_bsp_adc.o
  .debug_macro   0x0000000000000000       0x16 selex-fdk/bsp/src/sm_bsp_adc.o
  .debug_macro   0x0000000000000000       0x29 selex-fdk/bsp/src/sm_bsp_adc.o
- .debug_line    0x0000000000000000      0x6dc selex-fdk/bsp/src/sm_bsp_adc.o
+ .debug_line    0x0000000000000000      0x6e5 selex-fdk/bsp/src/sm_bsp_adc.o
  .debug_str     0x0000000000000000     0x8299 selex-fdk/bsp/src/sm_bsp_adc.o
  .comment       0x0000000000000000       0x54 selex-fdk/bsp/src/sm_bsp_adc.o
  .debug_frame   0x0000000000000000       0xf0 selex-fdk/bsp/src/sm_bsp_adc.o
@@ -11268,7 +11443,7 @@ Discarded input sections
  .text.sm_bsp_can_deinit
                 0x0000000000000000       0x42 selex-fdk/bsp/src/sm_bsp_can.o
  .text.can_read
-                0x0000000000000000       0x2e selex-fdk/bsp/src/sm_bsp_can.o
+                0x0000000000000000       0x30 selex-fdk/bsp/src/sm_bsp_can.o
  .text.can_rx_callback
                 0x0000000000000000       0x16 selex-fdk/bsp/src/sm_bsp_can.o
  .text.can_tx_callback
@@ -11289,8 +11464,8 @@ Discarded input sections
                 0x0000000000000000       0x1e selex-fdk/bsp/src/sm_bsp_can.o
  .text.sm_bsp_can_set_rx_callback
                 0x0000000000000000       0x1c selex-fdk/bsp/src/sm_bsp_can.o
- .debug_info    0x0000000000000000     0x10b4 selex-fdk/bsp/src/sm_bsp_can.o
- .debug_abbrev  0x0000000000000000      0x26a selex-fdk/bsp/src/sm_bsp_can.o
+ .debug_info    0x0000000000000000     0x10da selex-fdk/bsp/src/sm_bsp_can.o
+ .debug_abbrev  0x0000000000000000      0x28b selex-fdk/bsp/src/sm_bsp_can.o
  .debug_aranges
                 0x0000000000000000       0x80 selex-fdk/bsp/src/sm_bsp_can.o
  .debug_ranges  0x0000000000000000       0x70 selex-fdk/bsp/src/sm_bsp_can.o
@@ -11348,7 +11523,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0xaa selex-fdk/bsp/src/sm_bsp_can.o
  .debug_macro   0x0000000000000000       0x87 selex-fdk/bsp/src/sm_bsp_can.o
  .debug_line    0x0000000000000000      0x95f selex-fdk/bsp/src/sm_bsp_can.o
- .debug_str     0x0000000000000000     0xc996 selex-fdk/bsp/src/sm_bsp_can.o
+ .debug_str     0x0000000000000000     0xc9b1 selex-fdk/bsp/src/sm_bsp_can.o
  .comment       0x0000000000000000       0x54 selex-fdk/bsp/src/sm_bsp_can.o
  .debug_frame   0x0000000000000000      0x1b0 selex-fdk/bsp/src/sm_bsp_can.o
  .ARM.attributes
@@ -12023,6 +12198,8 @@ Discarded input sections
  .bss           0x0000000000000000        0x0 selex-fdk/bsp/src/sm_bsp_timer.o
  .text.sm_bsp_timer_init
                 0x0000000000000000       0x54 selex-fdk/bsp/src/sm_bsp_timer.o
+ .text.sm_bsp_timer_init_static
+                0x0000000000000000       0x50 selex-fdk/bsp/src/sm_bsp_timer.o
  .text.sm_bsp_timer_deinit
                 0x0000000000000000       0x32 selex-fdk/bsp/src/sm_bsp_timer.o
  .text.timer_callback
@@ -12031,12 +12208,12 @@ Discarded input sections
                 0x0000000000000000       0x24 selex-fdk/bsp/src/sm_bsp_timer.o
  .text.sm_bsp_timer_callback
                 0x0000000000000000       0x26 selex-fdk/bsp/src/sm_bsp_timer.o
- .debug_info    0x0000000000000000      0xc20 selex-fdk/bsp/src/sm_bsp_timer.o
- .debug_abbrev  0x0000000000000000      0x20c selex-fdk/bsp/src/sm_bsp_timer.o
+ .debug_info    0x0000000000000000      0xcf5 selex-fdk/bsp/src/sm_bsp_timer.o
+ .debug_abbrev  0x0000000000000000      0x228 selex-fdk/bsp/src/sm_bsp_timer.o
  .debug_aranges
-                0x0000000000000000       0x40 selex-fdk/bsp/src/sm_bsp_timer.o
- .debug_ranges  0x0000000000000000       0x30 selex-fdk/bsp/src/sm_bsp_timer.o
- .debug_macro   0x0000000000000000      0x205 selex-fdk/bsp/src/sm_bsp_timer.o
+                0x0000000000000000       0x48 selex-fdk/bsp/src/sm_bsp_timer.o
+ .debug_ranges  0x0000000000000000       0x38 selex-fdk/bsp/src/sm_bsp_timer.o
+ .debug_macro   0x0000000000000000      0x20b selex-fdk/bsp/src/sm_bsp_timer.o
  .debug_macro   0x0000000000000000      0xa84 selex-fdk/bsp/src/sm_bsp_timer.o
  .debug_macro   0x0000000000000000       0x22 selex-fdk/bsp/src/sm_bsp_timer.o
  .debug_macro   0x0000000000000000       0x8e selex-fdk/bsp/src/sm_bsp_timer.o
@@ -12076,10 +12253,10 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x35 selex-fdk/bsp/src/sm_bsp_timer.o
  .debug_macro   0x0000000000000000       0x16 selex-fdk/bsp/src/sm_bsp_timer.o
  .debug_macro   0x0000000000000000       0x29 selex-fdk/bsp/src/sm_bsp_timer.o
- .debug_line    0x0000000000000000      0x6c3 selex-fdk/bsp/src/sm_bsp_timer.o
- .debug_str     0x0000000000000000     0x82b3 selex-fdk/bsp/src/sm_bsp_timer.o
+ .debug_line    0x0000000000000000      0x6f9 selex-fdk/bsp/src/sm_bsp_timer.o
+ .debug_str     0x0000000000000000     0x8325 selex-fdk/bsp/src/sm_bsp_timer.o
  .comment       0x0000000000000000       0x54 selex-fdk/bsp/src/sm_bsp_timer.o
- .debug_frame   0x0000000000000000       0xb0 selex-fdk/bsp/src/sm_bsp_timer.o
+ .debug_frame   0x0000000000000000       0xd0 selex-fdk/bsp/src/sm_bsp_timer.o
  .ARM.attributes
                 0x0000000000000000       0x2c selex-fdk/bsp/src/sm_bsp_timer.o
  .group         0x0000000000000000        0xc selex-fdk/bsp/src/sm_bsp_uart.o
@@ -12140,6 +12317,8 @@ Discarded input sections
  .bss           0x0000000000000000        0x0 selex-fdk/bsp/src/sm_bsp_uart.o
  .text.sm_bsp_uart_init
                 0x0000000000000000       0x60 selex-fdk/bsp/src/sm_bsp_uart.o
+ .text.sm_bsp_uart_init_static
+                0x0000000000000000       0x5c selex-fdk/bsp/src/sm_bsp_uart.o
  .text.sm_bsp_uart_deinit
                 0x0000000000000000       0x4e selex-fdk/bsp/src/sm_bsp_uart.o
  .text.uart_rx_callback
@@ -12158,12 +12337,12 @@ Discarded input sections
                 0x0000000000000000       0x1c selex-fdk/bsp/src/sm_bsp_uart.o
  .text.sm_bsp_uart_set_tx_callback
                 0x0000000000000000       0x1c selex-fdk/bsp/src/sm_bsp_uart.o
- .debug_info    0x0000000000000000     0x10ef selex-fdk/bsp/src/sm_bsp_uart.o
- .debug_abbrev  0x0000000000000000      0x281 selex-fdk/bsp/src/sm_bsp_uart.o
+ .debug_info    0x0000000000000000     0x117f selex-fdk/bsp/src/sm_bsp_uart.o
+ .debug_abbrev  0x0000000000000000      0x29d selex-fdk/bsp/src/sm_bsp_uart.o
  .debug_aranges
-                0x0000000000000000       0x68 selex-fdk/bsp/src/sm_bsp_uart.o
- .debug_ranges  0x0000000000000000       0x58 selex-fdk/bsp/src/sm_bsp_uart.o
- .debug_macro   0x0000000000000000      0x2ea selex-fdk/bsp/src/sm_bsp_uart.o
+                0x0000000000000000       0x70 selex-fdk/bsp/src/sm_bsp_uart.o
+ .debug_ranges  0x0000000000000000       0x60 selex-fdk/bsp/src/sm_bsp_uart.o
+ .debug_macro   0x0000000000000000      0x2f0 selex-fdk/bsp/src/sm_bsp_uart.o
  .debug_macro   0x0000000000000000      0xa84 selex-fdk/bsp/src/sm_bsp_uart.o
  .debug_macro   0x0000000000000000       0x22 selex-fdk/bsp/src/sm_bsp_uart.o
  .debug_macro   0x0000000000000000       0x4c selex-fdk/bsp/src/sm_bsp_uart.o
@@ -12217,10 +12396,10 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0xaa selex-fdk/bsp/src/sm_bsp_uart.o
  .debug_macro   0x0000000000000000       0x87 selex-fdk/bsp/src/sm_bsp_uart.o
  .debug_macro   0x0000000000000000       0x2e selex-fdk/bsp/src/sm_bsp_uart.o
- .debug_line    0x0000000000000000      0x9f8 selex-fdk/bsp/src/sm_bsp_uart.o
- .debug_str     0x0000000000000000     0xcad4 selex-fdk/bsp/src/sm_bsp_uart.o
+ .debug_line    0x0000000000000000      0xa2d selex-fdk/bsp/src/sm_bsp_uart.o
+ .debug_str     0x0000000000000000     0xcb28 selex-fdk/bsp/src/sm_bsp_uart.o
  .comment       0x0000000000000000       0x54 selex-fdk/bsp/src/sm_bsp_uart.o
- .debug_frame   0x0000000000000000      0x150 selex-fdk/bsp/src/sm_bsp_uart.o
+ .debug_frame   0x0000000000000000      0x170 selex-fdk/bsp/src/sm_bsp_uart.o
  .ARM.attributes
                 0x0000000000000000       0x2c selex-fdk/bsp/src/sm_bsp_uart.o
  .group         0x0000000000000000        0xc selex-fdk/common/src/sm_ble.o
@@ -12297,7 +12476,7 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x40 selex-fdk/common/src/sm_ble.o
  .debug_ranges  0x0000000000000000       0x30 selex-fdk/common/src/sm_ble.o
- .debug_macro   0x0000000000000000      0x30f selex-fdk/common/src/sm_ble.o
+ .debug_macro   0x0000000000000000      0x315 selex-fdk/common/src/sm_ble.o
  .debug_macro   0x0000000000000000      0xa84 selex-fdk/common/src/sm_ble.o
  .debug_macro   0x0000000000000000       0x22 selex-fdk/common/src/sm_ble.o
  .debug_macro   0x0000000000000000       0x4c selex-fdk/common/src/sm_ble.o
@@ -12355,7 +12534,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x2e selex-fdk/common/src/sm_ble.o
  .debug_macro   0x0000000000000000       0x69 selex-fdk/common/src/sm_ble.o
  .debug_line    0x0000000000000000      0xa17 selex-fdk/common/src/sm_ble.o
- .debug_str     0x0000000000000000     0xcdab selex-fdk/common/src/sm_ble.o
+ .debug_str     0x0000000000000000     0xcdbb selex-fdk/common/src/sm_ble.o
  .comment       0x0000000000000000       0x54 selex-fdk/common/src/sm_ble.o
  .debug_frame   0x0000000000000000       0xb4 selex-fdk/common/src/sm_ble.o
  .ARM.attributes
@@ -12422,7 +12601,7 @@ Discarded input sections
                 0x0000000000000000       0x3c selex-fdk/common/src/sm_button.o
  .text.sm_button_update
                 0x0000000000000000      0x12e selex-fdk/common/src/sm_button.o
- .rodata.__func__.6533
+ .rodata.__func__.6536
                 0x0000000000000000        0xf selex-fdk/common/src/sm_button.o
  .debug_info    0x0000000000000000      0xc1b selex-fdk/common/src/sm_button.o
  .debug_abbrev  0x0000000000000000      0x225 selex-fdk/common/src/sm_button.o
@@ -12550,7 +12729,7 @@ Discarded input sections
  .debug_abbrev  0x0000000000000000      0x176 selex-fdk/common/src/sm_cli.o
  .debug_aranges
                 0x0000000000000000       0x18 selex-fdk/common/src/sm_cli.o
- .debug_macro   0x0000000000000000      0x2ee selex-fdk/common/src/sm_cli.o
+ .debug_macro   0x0000000000000000      0x2f4 selex-fdk/common/src/sm_cli.o
  .debug_macro   0x0000000000000000      0xa84 selex-fdk/common/src/sm_cli.o
  .debug_macro   0x0000000000000000       0x22 selex-fdk/common/src/sm_cli.o
  .debug_macro   0x0000000000000000       0x4c selex-fdk/common/src/sm_cli.o
@@ -12605,7 +12784,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x87 selex-fdk/common/src/sm_cli.o
  .debug_macro   0x0000000000000000       0x2e selex-fdk/common/src/sm_cli.o
  .debug_line    0x0000000000000000      0x89b selex-fdk/common/src/sm_cli.o
- .debug_str     0x0000000000000000     0xc6bc selex-fdk/common/src/sm_cli.o
+ .debug_str     0x0000000000000000     0xc6cc selex-fdk/common/src/sm_cli.o
  .comment       0x0000000000000000       0x54 selex-fdk/common/src/sm_cli.o
  .ARM.attributes
                 0x0000000000000000       0x32 selex-fdk/common/src/sm_cli.o
@@ -12667,10 +12846,10 @@ Discarded input sections
  .data          0x0000000000000000        0x0 selex-fdk/common/src/sm_ec200s.o
  .bss           0x0000000000000000        0x0 selex-fdk/common/src/sm_ec200s.o
  .text.sm_ec200s_init
-                0x0000000000000000       0xc0 selex-fdk/common/src/sm_ec200s.o
+                0x0000000000000000       0xdc selex-fdk/common/src/sm_ec200s.o
  .text.sm_ec200s_deinit
                 0x0000000000000000       0x18 selex-fdk/common/src/sm_ec200s.o
- .rodata        0x0000000000000000      0x37f selex-fdk/common/src/sm_ec200s.o
+ .rodata        0x0000000000000000      0x393 selex-fdk/common/src/sm_ec200s.o
  .text.sm_ec200s_sync
                 0x0000000000000000       0x34 selex-fdk/common/src/sm_ec200s.o
  .text.sm_ec200s_echo_mode
@@ -12708,7 +12887,7 @@ Discarded input sections
  .text.sm_ec200s_unsubscribes_mqtt
                 0x0000000000000000       0x88 selex-fdk/common/src/sm_ec200s.o
  .text.sm_ec200s_data_iscomming_mqtt
-                0x0000000000000000      0x1a8 selex-fdk/common/src/sm_ec200s.o
+                0x0000000000000000      0x1a4 selex-fdk/common/src/sm_ec200s.o
  .text.sm_ec200_http_open
                 0x0000000000000000       0x44 selex-fdk/common/src/sm_ec200s.o
  .text.sm_ec200_http_close
@@ -12717,12 +12896,12 @@ Discarded input sections
                 0x0000000000000000       0x88 selex-fdk/common/src/sm_ec200s.o
  .text.sm_ec200_http_read
                 0x0000000000000000       0xa0 selex-fdk/common/src/sm_ec200s.o
- .debug_info    0x0000000000000000     0x15f5 selex-fdk/common/src/sm_ec200s.o
+ .debug_info    0x0000000000000000     0x15fa selex-fdk/common/src/sm_ec200s.o
  .debug_abbrev  0x0000000000000000      0x2b8 selex-fdk/common/src/sm_ec200s.o
  .debug_aranges
                 0x0000000000000000       0xe0 selex-fdk/common/src/sm_ec200s.o
  .debug_ranges  0x0000000000000000       0xd0 selex-fdk/common/src/sm_ec200s.o
- .debug_macro   0x0000000000000000      0x307 selex-fdk/common/src/sm_ec200s.o
+ .debug_macro   0x0000000000000000      0x30d selex-fdk/common/src/sm_ec200s.o
  .debug_macro   0x0000000000000000      0xa84 selex-fdk/common/src/sm_ec200s.o
  .debug_macro   0x0000000000000000       0x22 selex-fdk/common/src/sm_ec200s.o
  .debug_macro   0x0000000000000000       0x4c selex-fdk/common/src/sm_ec200s.o
@@ -12777,8 +12956,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x87 selex-fdk/common/src/sm_ec200s.o
  .debug_macro   0x0000000000000000       0x2e selex-fdk/common/src/sm_ec200s.o
  .debug_macro   0x0000000000000000       0x10 selex-fdk/common/src/sm_ec200s.o
- .debug_line    0x0000000000000000      0xcff selex-fdk/common/src/sm_ec200s.o
- .debug_str     0x0000000000000000     0xcc0a selex-fdk/common/src/sm_ec200s.o
+ .debug_line    0x0000000000000000      0xd0b selex-fdk/common/src/sm_ec200s.o
+ .debug_str     0x0000000000000000     0xcc1a selex-fdk/common/src/sm_ec200s.o
  .comment       0x0000000000000000       0x54 selex-fdk/common/src/sm_ec200s.o
  .debug_frame   0x0000000000000000      0x368 selex-fdk/common/src/sm_ec200s.o
  .ARM.attributes
@@ -13107,6 +13286,7 @@ Discarded input sections
  .group         0x0000000000000000        0xc selex-fdk/common/src/sm_modbus.o
  .group         0x0000000000000000        0xc selex-fdk/common/src/sm_modbus.o
  .group         0x0000000000000000        0xc selex-fdk/common/src/sm_modbus.o
+ .group         0x0000000000000000        0xc selex-fdk/common/src/sm_modbus.o
  .text          0x0000000000000000        0x0 selex-fdk/common/src/sm_modbus.o
  .data          0x0000000000000000        0x0 selex-fdk/common/src/sm_modbus.o
  .bss           0x0000000000000000        0x0 selex-fdk/common/src/sm_modbus.o
@@ -13114,7 +13294,7 @@ Discarded input sections
  .debug_abbrev  0x0000000000000000      0x176 selex-fdk/common/src/sm_modbus.o
  .debug_aranges
                 0x0000000000000000       0x18 selex-fdk/common/src/sm_modbus.o
- .debug_macro   0x0000000000000000      0x2f2 selex-fdk/common/src/sm_modbus.o
+ .debug_macro   0x0000000000000000      0x2f7 selex-fdk/common/src/sm_modbus.o
  .debug_macro   0x0000000000000000      0xa84 selex-fdk/common/src/sm_modbus.o
  .debug_macro   0x0000000000000000       0x22 selex-fdk/common/src/sm_modbus.o
  .debug_macro   0x0000000000000000       0x4c selex-fdk/common/src/sm_modbus.o
@@ -13167,9 +13347,10 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0xb5 selex-fdk/common/src/sm_modbus.o
  .debug_macro   0x0000000000000000       0xaa selex-fdk/common/src/sm_modbus.o
  .debug_macro   0x0000000000000000       0x87 selex-fdk/common/src/sm_modbus.o
+ .debug_macro   0x0000000000000000       0x10 selex-fdk/common/src/sm_modbus.o
  .debug_macro   0x0000000000000000       0x2e selex-fdk/common/src/sm_modbus.o
  .debug_line    0x0000000000000000      0x8b0 selex-fdk/common/src/sm_modbus.o
- .debug_str     0x0000000000000000     0xc6ae selex-fdk/common/src/sm_modbus.o
+ .debug_str     0x0000000000000000     0xc6d6 selex-fdk/common/src/sm_modbus.o
  .comment       0x0000000000000000       0x54 selex-fdk/common/src/sm_modbus.o
  .ARM.attributes
                 0x0000000000000000       0x32 selex-fdk/common/src/sm_modbus.o
@@ -13244,14 +13425,14 @@ Discarded input sections
                 0x0000000000000000       0x74 selex-fdk/common/src/sm_modem.o
  .text.sm_modem_read
                 0x0000000000000000       0x46 selex-fdk/common/src/sm_modem.o
- .rodata.__func__.6653
+ .rodata.__func__.6663
                 0x0000000000000000       0x12 selex-fdk/common/src/sm_modem.o
  .debug_info    0x0000000000000000      0xf06 selex-fdk/common/src/sm_modem.o
  .debug_abbrev  0x0000000000000000      0x267 selex-fdk/common/src/sm_modem.o
  .debug_aranges
                 0x0000000000000000       0x48 selex-fdk/common/src/sm_modem.o
  .debug_ranges  0x0000000000000000       0x38 selex-fdk/common/src/sm_modem.o
- .debug_macro   0x0000000000000000      0x300 selex-fdk/common/src/sm_modem.o
+ .debug_macro   0x0000000000000000      0x306 selex-fdk/common/src/sm_modem.o
  .debug_macro   0x0000000000000000      0xa84 selex-fdk/common/src/sm_modem.o
  .debug_macro   0x0000000000000000       0x22 selex-fdk/common/src/sm_modem.o
  .debug_macro   0x0000000000000000       0x4c selex-fdk/common/src/sm_modem.o
@@ -13308,7 +13489,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x10 selex-fdk/common/src/sm_modem.o
  .debug_macro   0x0000000000000000       0x16 selex-fdk/common/src/sm_modem.o
  .debug_line    0x0000000000000000      0xa54 selex-fdk/common/src/sm_modem.o
- .debug_str     0x0000000000000000     0xc9b9 selex-fdk/common/src/sm_modem.o
+ .debug_str     0x0000000000000000     0xc9c9 selex-fdk/common/src/sm_modem.o
  .comment       0x0000000000000000       0x54 selex-fdk/common/src/sm_modem.o
  .debug_frame   0x0000000000000000       0xd0 selex-fdk/common/src/sm_modem.o
  .ARM.attributes
@@ -13369,6 +13550,8 @@ Discarded input sections
  .text          0x0000000000000000        0x0 selex-fdk/common/src/sm_mqtt_client.o
  .data          0x0000000000000000        0x0 selex-fdk/common/src/sm_mqtt_client.o
  .bss           0x0000000000000000        0x0 selex-fdk/common/src/sm_mqtt_client.o
+ .bss.mqtt_list_handle
+                0x0000000000000000       0x28 selex-fdk/common/src/sm_mqtt_client.o
  .text.sm_mqtt_client_set_state
                 0x0000000000000000       0x24 selex-fdk/common/src/sm_mqtt_client.o
  .text.sm_mqtt_client_get_state
@@ -13378,20 +13561,24 @@ Discarded input sections
  .text.mqtt_client_get_event
                 0x0000000000000000       0x2c selex-fdk/common/src/sm_mqtt_client.o
  .text.sm_mqtt_client_init
-                0x0000000000000000       0x64 selex-fdk/common/src/sm_mqtt_client.o
+                0x0000000000000000       0x70 selex-fdk/common/src/sm_mqtt_client.o
  .text.sm_mqtt_client_deinit
                 0x0000000000000000       0x1c selex-fdk/common/src/sm_mqtt_client.o
+ .text.sm_mqtt_client_register_handle
+                0x0000000000000000       0x38 selex-fdk/common/src/sm_mqtt_client.o
+ .text.sm_mqtt_client_unregister_handle
+                0x0000000000000000       0x90 selex-fdk/common/src/sm_mqtt_client.o
  .rodata        0x0000000000000000        0xd selex-fdk/common/src/sm_mqtt_client.o
  .text.sm_mqtt_client_process
-                0x0000000000000000      0x154 selex-fdk/common/src/sm_mqtt_client.o
+                0x0000000000000000      0x180 selex-fdk/common/src/sm_mqtt_client.o
  .rodata.sm_mqtt_client_process
                 0x0000000000000000       0x1c selex-fdk/common/src/sm_mqtt_client.o
- .debug_info    0x0000000000000000     0x10b7 selex-fdk/common/src/sm_mqtt_client.o
- .debug_abbrev  0x0000000000000000      0x298 selex-fdk/common/src/sm_mqtt_client.o
+ .debug_info    0x0000000000000000     0x117c selex-fdk/common/src/sm_mqtt_client.o
+ .debug_abbrev  0x0000000000000000      0x2e1 selex-fdk/common/src/sm_mqtt_client.o
  .debug_aranges
-                0x0000000000000000       0x50 selex-fdk/common/src/sm_mqtt_client.o
- .debug_ranges  0x0000000000000000       0x40 selex-fdk/common/src/sm_mqtt_client.o
- .debug_macro   0x0000000000000000      0x2d4 selex-fdk/common/src/sm_mqtt_client.o
+                0x0000000000000000       0x60 selex-fdk/common/src/sm_mqtt_client.o
+ .debug_ranges  0x0000000000000000       0x50 selex-fdk/common/src/sm_mqtt_client.o
+ .debug_macro   0x0000000000000000      0x2da selex-fdk/common/src/sm_mqtt_client.o
  .debug_macro   0x0000000000000000      0xa84 selex-fdk/common/src/sm_mqtt_client.o
  .debug_macro   0x0000000000000000       0x22 selex-fdk/common/src/sm_mqtt_client.o
  .debug_macro   0x0000000000000000       0x4c selex-fdk/common/src/sm_mqtt_client.o
@@ -13445,10 +13632,10 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0xaa selex-fdk/common/src/sm_mqtt_client.o
  .debug_macro   0x0000000000000000       0x87 selex-fdk/common/src/sm_mqtt_client.o
  .debug_macro   0x0000000000000000       0x2e selex-fdk/common/src/sm_mqtt_client.o
- .debug_line    0x0000000000000000      0x987 selex-fdk/common/src/sm_mqtt_client.o
- .debug_str     0x0000000000000000     0xcb3e selex-fdk/common/src/sm_mqtt_client.o
+ .debug_line    0x0000000000000000      0xa5d selex-fdk/common/src/sm_mqtt_client.o
+ .debug_str     0x0000000000000000     0xcbae selex-fdk/common/src/sm_mqtt_client.o
  .comment       0x0000000000000000       0x54 selex-fdk/common/src/sm_mqtt_client.o
- .debug_frame   0x0000000000000000       0xf4 selex-fdk/common/src/sm_mqtt_client.o
+ .debug_frame   0x0000000000000000      0x130 selex-fdk/common/src/sm_mqtt_client.o
  .ARM.attributes
                 0x0000000000000000       0x2c selex-fdk/common/src/sm_mqtt_client.o
  .group         0x0000000000000000        0xc selex-fdk/common/src/sm_security.o
@@ -13642,6 +13829,103 @@ Discarded input sections
  .ARM.attributes
                 0x0000000000000000       0x2c selex-fdk/common/src/sm_spi_flash.o
  COMMON         0x0000000000000000       0x34 selex-fdk/common/src/sm_spi_flash.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootloader_t.o
+ .text          0x0000000000000000        0x0 selex-fdk/cores/src/sm_bootloader_t.o
+ .data          0x0000000000000000        0x0 selex-fdk/cores/src/sm_bootloader_t.o
+ .bss           0x0000000000000000        0x0 selex-fdk/cores/src/sm_bootloader_t.o
+ .text.sm_crc16
+                0x0000000000000000       0x14 selex-fdk/cores/src/sm_bootloader_t.o
+ .text.sm_boot_init
+                0x0000000000000000       0x74 selex-fdk/cores/src/sm_bootloader_t.o
+ .text.sm_boot_process
+                0x0000000000000000      0x274 selex-fdk/cores/src/sm_bootloader_t.o
+ .rodata.sm_boot_process
+                0x0000000000000000      0x20c selex-fdk/cores/src/sm_bootloader_t.o
+ .text.sm_boot_get_command_opcode
+                0x0000000000000000       0x40 selex-fdk/cores/src/sm_bootloader_t.o
+ .text.sm_boot_get_command
+                0x0000000000000000       0x24 selex-fdk/cores/src/sm_bootloader_t.o
+ .text.sm_boot_get_version
+                0x0000000000000000       0x42 selex-fdk/cores/src/sm_bootloader_t.o
+ .text.sm_boot_get_id
+                0x0000000000000000       0x42 selex-fdk/cores/src/sm_bootloader_t.o
+ .text.sm_boot_read_memory
+                0x0000000000000000       0x10 selex-fdk/cores/src/sm_bootloader_t.o
+ .text.sm_boot_write_memory
+                0x0000000000000000       0x10 selex-fdk/cores/src/sm_bootloader_t.o
+ .text.sm_boot_erase_memory
+                0x0000000000000000       0x10 selex-fdk/cores/src/sm_bootloader_t.o
+ .text.sm_boot_go
+                0x0000000000000000       0x10 selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_info    0x0000000000000000      0xe0e selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_abbrev  0x0000000000000000      0x223 selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_aranges
+                0x0000000000000000       0x70 selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_ranges  0x0000000000000000       0x60 selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000      0x173 selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000      0xa84 selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000       0x22 selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000       0x8e selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000       0x51 selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000      0x103 selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000       0x6a selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000      0x1df selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000       0x18 selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000       0x52 selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000       0x3c selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000       0x34 selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000       0x16 selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000      0x10e selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000       0x8d selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000       0x16 selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000       0x43 selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000       0x34 selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000       0x10 selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000       0x58 selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000       0x71 selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000       0x1c selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000      0x12a selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000      0x339 selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000       0x16 selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000       0x29 selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000       0x16 selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000       0x35 selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000       0x20 selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_macro   0x0000000000000000       0x8e selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_line    0x0000000000000000      0x8bf selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_str     0x0000000000000000     0x7750 selex-fdk/cores/src/sm_bootloader_t.o
+ .comment       0x0000000000000000       0x54 selex-fdk/cores/src/sm_bootloader_t.o
+ .debug_frame   0x0000000000000000      0x178 selex-fdk/cores/src/sm_bootloader_t.o
+ .ARM.attributes
+                0x0000000000000000       0x2c selex-fdk/cores/src/sm_bootloader_t.o
  .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_bootmaster.o
  .text          0x0000000000000000        0x0 selex-fdk/cores/src/sm_bootmaster.o
  .data          0x0000000000000000        0x0 selex-fdk/cores/src/sm_bootmaster.o
@@ -13708,8 +13992,6 @@ Discarded input sections
                 0x0000000000000000       0x28 selex-fdk/cores/src/sm_device_shadown.o
  .text.sm_mqtt_unsubscribes
                 0x0000000000000000       0x22 selex-fdk/cores/src/sm_device_shadown.o
- .text.sm_mqtt_client_set_callback_event
-                0x0000000000000000       0x18 selex-fdk/cores/src/sm_device_shadown.o
  .text.sm_iot_init
                 0x0000000000000000       0x54 selex-fdk/cores/src/sm_device_shadown.o
  .rodata        0x0000000000000000      0x13f selex-fdk/cores/src/sm_device_shadown.o
@@ -13747,11 +14029,11 @@ Discarded input sections
                 0x0000000000000000      0x1ac selex-fdk/cores/src/sm_device_shadown.o
  .text.sm_iot_device_get_connected
                 0x0000000000000000       0x38 selex-fdk/cores/src/sm_device_shadown.o
- .debug_info    0x0000000000000000     0x148e selex-fdk/cores/src/sm_device_shadown.o
- .debug_abbrev  0x0000000000000000      0x2b4 selex-fdk/cores/src/sm_device_shadown.o
+ .debug_info    0x0000000000000000     0x1466 selex-fdk/cores/src/sm_device_shadown.o
+ .debug_abbrev  0x0000000000000000      0x29a selex-fdk/cores/src/sm_device_shadown.o
  .debug_aranges
-                0x0000000000000000       0xc0 selex-fdk/cores/src/sm_device_shadown.o
- .debug_ranges  0x0000000000000000       0xb0 selex-fdk/cores/src/sm_device_shadown.o
+                0x0000000000000000       0xb8 selex-fdk/cores/src/sm_device_shadown.o
+ .debug_ranges  0x0000000000000000       0xa8 selex-fdk/cores/src/sm_device_shadown.o
  .debug_macro   0x0000000000000000      0x28d selex-fdk/cores/src/sm_device_shadown.o
  .debug_macro   0x0000000000000000      0xa84 selex-fdk/cores/src/sm_device_shadown.o
  .debug_macro   0x0000000000000000       0x22 selex-fdk/cores/src/sm_device_shadown.o
@@ -13795,12 +14077,13 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x16 selex-fdk/cores/src/sm_device_shadown.o
  .debug_macro   0x0000000000000000      0x145 selex-fdk/cores/src/sm_device_shadown.o
  .debug_macro   0x0000000000000000       0x22 selex-fdk/cores/src/sm_device_shadown.o
- .debug_line    0x0000000000000000      0xcfb selex-fdk/cores/src/sm_device_shadown.o
- .debug_str     0x0000000000000000     0x8b4e selex-fdk/cores/src/sm_device_shadown.o
+ .debug_line    0x0000000000000000      0xce3 selex-fdk/cores/src/sm_device_shadown.o
+ .debug_str     0x0000000000000000     0x8b30 selex-fdk/cores/src/sm_device_shadown.o
  .comment       0x0000000000000000       0x54 selex-fdk/cores/src/sm_device_shadown.o
- .debug_frame   0x0000000000000000      0x2bc selex-fdk/cores/src/sm_device_shadown.o
+ .debug_frame   0x0000000000000000      0x29c selex-fdk/cores/src/sm_device_shadown.o
  .ARM.attributes
                 0x0000000000000000       0x2c selex-fdk/cores/src/sm_device_shadown.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_event.o
  .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_event.o
  .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_event.o
  .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_event.o
@@ -13874,14 +14157,14 @@ Discarded input sections
                 0x0000000000000000       0x1e selex-fdk/cores/src/sm_event.o
  .text.sm_signal_push
                 0x0000000000000000       0x24 selex-fdk/cores/src/sm_event.o
- .rodata.__func__.6574
+ .rodata.__func__.6587
                 0x0000000000000000       0x11 selex-fdk/cores/src/sm_event.o
  .debug_info    0x0000000000000000      0xe35 selex-fdk/cores/src/sm_event.o
  .debug_abbrev  0x0000000000000000      0x26c selex-fdk/cores/src/sm_event.o
  .debug_aranges
                 0x0000000000000000       0x50 selex-fdk/cores/src/sm_event.o
  .debug_ranges  0x0000000000000000       0x40 selex-fdk/cores/src/sm_event.o
- .debug_macro   0x0000000000000000      0x2ee selex-fdk/cores/src/sm_event.o
+ .debug_macro   0x0000000000000000      0x2ed selex-fdk/cores/src/sm_event.o
  .debug_macro   0x0000000000000000      0xa84 selex-fdk/cores/src/sm_event.o
  .debug_macro   0x0000000000000000       0x22 selex-fdk/cores/src/sm_event.o
  .debug_macro   0x0000000000000000       0x8e selex-fdk/cores/src/sm_event.o
@@ -13922,6 +14205,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x16 selex-fdk/cores/src/sm_event.o
  .debug_macro   0x0000000000000000      0x145 selex-fdk/cores/src/sm_event.o
  .debug_macro   0x0000000000000000       0x22 selex-fdk/cores/src/sm_event.o
+ .debug_macro   0x0000000000000000       0x10 selex-fdk/cores/src/sm_event.o
  .debug_macro   0x0000000000000000       0x16 selex-fdk/cores/src/sm_event.o
  .debug_macro   0x0000000000000000       0x20 selex-fdk/cores/src/sm_event.o
  .debug_macro   0x0000000000000000      0x14d selex-fdk/cores/src/sm_event.o
@@ -13936,7 +14220,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x87 selex-fdk/cores/src/sm_event.o
  .debug_macro   0x0000000000000000       0x16 selex-fdk/cores/src/sm_event.o
  .debug_line    0x0000000000000000      0x929 selex-fdk/cores/src/sm_event.o
- .debug_str     0x0000000000000000     0xc8dc selex-fdk/cores/src/sm_event.o
+ .debug_str     0x0000000000000000     0xc8fa selex-fdk/cores/src/sm_event.o
  .comment       0x0000000000000000       0x54 selex-fdk/cores/src/sm_event.o
  .debug_frame   0x0000000000000000       0xe8 selex-fdk/cores/src/sm_event.o
  .ARM.attributes
@@ -13988,29 +14272,28 @@ Discarded input sections
  .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_filesystem.o
  .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_filesystem.o
  .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_filesystem.o
- .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_filesystem.o
  .text          0x0000000000000000        0x0 selex-fdk/cores/src/sm_filesystem.o
  .data          0x0000000000000000        0x0 selex-fdk/cores/src/sm_filesystem.o
  .bss           0x0000000000000000        0x0 selex-fdk/cores/src/sm_filesystem.o
- .data.sm_lfs_config
-                0x0000000000000000       0x48 selex-fdk/cores/src/sm_filesystem.o
  .rodata        0x0000000000000000        0x5 selex-fdk/cores/src/sm_filesystem.o
  .text.sm_file_system_init
-                0x0000000000000000       0xa8 selex-fdk/cores/src/sm_filesystem.o
+                0x0000000000000000       0xec selex-fdk/cores/src/sm_filesystem.o
+ .text.sm_file_switch_disk
+                0x0000000000000000       0x1c selex-fdk/cores/src/sm_filesystem.o
  .text.sm_littlefs_flash_read
-                0x0000000000000000       0x30 selex-fdk/cores/src/sm_filesystem.o
+                0x0000000000000000       0x4e selex-fdk/cores/src/sm_filesystem.o
  .text.sm_littlefs_flash_write
-                0x0000000000000000       0x30 selex-fdk/cores/src/sm_filesystem.o
+                0x0000000000000000       0x4e selex-fdk/cores/src/sm_filesystem.o
  .text.sm_littlefs_flash_erase
-                0x0000000000000000       0x26 selex-fdk/cores/src/sm_filesystem.o
+                0x0000000000000000       0x44 selex-fdk/cores/src/sm_filesystem.o
  .text.sm_littlefs_flash_sync
                 0x0000000000000000       0x12 selex-fdk/cores/src/sm_filesystem.o
- .debug_info    0x0000000000000000     0x13ba selex-fdk/cores/src/sm_filesystem.o
- .debug_abbrev  0x0000000000000000      0x25b selex-fdk/cores/src/sm_filesystem.o
+ .debug_info    0x0000000000000000     0x1155 selex-fdk/cores/src/sm_filesystem.o
+ .debug_abbrev  0x0000000000000000      0x26f selex-fdk/cores/src/sm_filesystem.o
  .debug_aranges
-                0x0000000000000000       0x40 selex-fdk/cores/src/sm_filesystem.o
- .debug_ranges  0x0000000000000000       0x30 selex-fdk/cores/src/sm_filesystem.o
- .debug_macro   0x0000000000000000      0x2a8 selex-fdk/cores/src/sm_filesystem.o
+                0x0000000000000000       0x48 selex-fdk/cores/src/sm_filesystem.o
+ .debug_ranges  0x0000000000000000       0x38 selex-fdk/cores/src/sm_filesystem.o
+ .debug_macro   0x0000000000000000      0x2a3 selex-fdk/cores/src/sm_filesystem.o
  .debug_macro   0x0000000000000000      0xa84 selex-fdk/cores/src/sm_filesystem.o
  .debug_macro   0x0000000000000000       0x22 selex-fdk/cores/src/sm_filesystem.o
  .debug_macro   0x0000000000000000       0x8e selex-fdk/cores/src/sm_filesystem.o
@@ -14057,15 +14340,133 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x3d selex-fdk/cores/src/sm_filesystem.o
  .debug_macro   0x0000000000000000       0x16 selex-fdk/cores/src/sm_filesystem.o
  .debug_macro   0x0000000000000000      0x145 selex-fdk/cores/src/sm_filesystem.o
- .debug_macro   0x0000000000000000       0x3a selex-fdk/cores/src/sm_filesystem.o
  .debug_macro   0x0000000000000000       0x2e selex-fdk/cores/src/sm_filesystem.o
- .debug_line    0x0000000000000000      0x8d0 selex-fdk/cores/src/sm_filesystem.o
- .debug_str     0x0000000000000000     0xa098 selex-fdk/cores/src/sm_filesystem.o
+ .debug_line    0x0000000000000000      0x957 selex-fdk/cores/src/sm_filesystem.o
+ .debug_str     0x0000000000000000     0x9c44 selex-fdk/cores/src/sm_filesystem.o
  .comment       0x0000000000000000       0x54 selex-fdk/cores/src/sm_filesystem.o
- .debug_frame   0x0000000000000000       0xb0 selex-fdk/cores/src/sm_filesystem.o
+ .debug_frame   0x0000000000000000       0xd0 selex-fdk/cores/src/sm_filesystem.o
  .ARM.attributes
                 0x0000000000000000       0x2c selex-fdk/cores/src/sm_filesystem.o
- COMMON         0x0000000000000000       0x78 selex-fdk/cores/src/sm_filesystem.o
+ COMMON         0x0000000000000000        0x4 selex-fdk/cores/src/sm_filesystem.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_ota.o
+ .text          0x0000000000000000        0x0 selex-fdk/cores/src/sm_ota.o
+ .data          0x0000000000000000        0x0 selex-fdk/cores/src/sm_ota.o
+ .bss           0x0000000000000000        0x0 selex-fdk/cores/src/sm_ota.o
+ .text.sm_mqtt_subscribes
+                0x0000000000000000       0x28 selex-fdk/cores/src/sm_ota.o
+ .text.sm_mqtt_unsubscribes
+                0x0000000000000000       0x22 selex-fdk/cores/src/sm_ota.o
+ .rodata        0x0000000000000000       0xca selex-fdk/cores/src/sm_ota.o
+ .text.sm_ota_device_init
+                0x0000000000000000      0x160 selex-fdk/cores/src/sm_ota.o
+ .text.sm_ota_set_callback
+                0x0000000000000000       0x20 selex-fdk/cores/src/sm_ota.o
+ .text.sm_ota_device_deinit
+                0x0000000000000000       0xa8 selex-fdk/cores/src/sm_ota.o
+ .text.sm_ota_change_device
+                0x0000000000000000       0x28 selex-fdk/cores/src/sm_ota.o
+ .text.sm_ota_connect
+                0x0000000000000000       0x30 selex-fdk/cores/src/sm_ota.o
+ .text.sm_ota_disconnect
+                0x0000000000000000       0x30 selex-fdk/cores/src/sm_ota.o
+ .debug_info    0x0000000000000000      0xed9 selex-fdk/cores/src/sm_ota.o
+ .debug_abbrev  0x0000000000000000      0x22f selex-fdk/cores/src/sm_ota.o
+ .debug_aranges
+                0x0000000000000000       0x58 selex-fdk/cores/src/sm_ota.o
+ .debug_ranges  0x0000000000000000       0x48 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000      0x24d selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000      0xa84 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x22 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x8e selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x51 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000      0x103 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x6a selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000      0x1df selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x2e selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x58 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x52 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x18 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x3c selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x34 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x16 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x97 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000      0x339 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0xfd selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x10 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x16 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x43 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x34 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x10 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x58 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x71 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x1c selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000      0x12a selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x10 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x1c selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x52 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x22 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x10 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x40 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0xd5 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x1c selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x3d selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x16 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000      0x145 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x16 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x35 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x16 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x29 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x16 selex-fdk/cores/src/sm_ota.o
+ .debug_macro   0x0000000000000000       0x20 selex-fdk/cores/src/sm_ota.o
+ .debug_line    0x0000000000000000      0x874 selex-fdk/cores/src/sm_ota.o
+ .debug_str     0x0000000000000000     0x8771 selex-fdk/cores/src/sm_ota.o
+ .comment       0x0000000000000000       0x54 selex-fdk/cores/src/sm_ota.o
+ .debug_frame   0x0000000000000000      0x110 selex-fdk/cores/src/sm_ota.o
+ .ARM.attributes
+                0x0000000000000000       0x2c selex-fdk/cores/src/sm_ota.o
+ .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_sch_task.o
  .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_sch_task.o
  .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_sch_task.o
  .group         0x0000000000000000        0xc selex-fdk/cores/src/sm_sch_task.o
@@ -14134,7 +14535,7 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x60 selex-fdk/cores/src/sm_sch_task.o
  .debug_ranges  0x0000000000000000       0x50 selex-fdk/cores/src/sm_sch_task.o
- .debug_macro   0x0000000000000000      0x22a selex-fdk/cores/src/sm_sch_task.o
+ .debug_macro   0x0000000000000000      0x229 selex-fdk/cores/src/sm_sch_task.o
  .debug_macro   0x0000000000000000      0xa84 selex-fdk/cores/src/sm_sch_task.o
  .debug_macro   0x0000000000000000       0x22 selex-fdk/cores/src/sm_sch_task.o
  .debug_macro   0x0000000000000000       0x8e selex-fdk/cores/src/sm_sch_task.o
@@ -14175,8 +14576,9 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x16 selex-fdk/cores/src/sm_sch_task.o
  .debug_macro   0x0000000000000000       0x29 selex-fdk/cores/src/sm_sch_task.o
  .debug_macro   0x0000000000000000       0x10 selex-fdk/cores/src/sm_sch_task.o
+ .debug_macro   0x0000000000000000       0x10 selex-fdk/cores/src/sm_sch_task.o
  .debug_line    0x0000000000000000      0x92c selex-fdk/cores/src/sm_sch_task.o
- .debug_str     0x0000000000000000     0x8398 selex-fdk/cores/src/sm_sch_task.o
+ .debug_str     0x0000000000000000     0x83b0 selex-fdk/cores/src/sm_sch_task.o
  .comment       0x0000000000000000       0x54 selex-fdk/cores/src/sm_sch_task.o
  .debug_frame   0x0000000000000000      0x12c selex-fdk/cores/src/sm_sch_task.o
  .ARM.attributes
@@ -16920,7 +17322,7 @@ Discarded input sections
  .debug_abbrev  0x0000000000000000      0x176 selex-fdk/utils/src/sm_cli_retarget.o
  .debug_aranges
                 0x0000000000000000       0x18 selex-fdk/utils/src/sm_cli_retarget.o
- .debug_macro   0x0000000000000000      0x2e2 selex-fdk/utils/src/sm_cli_retarget.o
+ .debug_macro   0x0000000000000000      0x2e8 selex-fdk/utils/src/sm_cli_retarget.o
  .debug_macro   0x0000000000000000      0xa84 selex-fdk/utils/src/sm_cli_retarget.o
  .debug_macro   0x0000000000000000       0x18 selex-fdk/utils/src/sm_cli_retarget.o
  .debug_macro   0x0000000000000000       0x22 selex-fdk/utils/src/sm_cli_retarget.o
@@ -16975,7 +17377,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0xaa selex-fdk/utils/src/sm_cli_retarget.o
  .debug_macro   0x0000000000000000       0x87 selex-fdk/utils/src/sm_cli_retarget.o
  .debug_line    0x0000000000000000      0x851 selex-fdk/utils/src/sm_cli_retarget.o
- .debug_str     0x0000000000000000     0xc691 selex-fdk/utils/src/sm_cli_retarget.o
+ .debug_str     0x0000000000000000     0xc6a1 selex-fdk/utils/src/sm_cli_retarget.o
  .comment       0x0000000000000000       0x54 selex-fdk/utils/src/sm_cli_retarget.o
  .ARM.attributes
                 0x0000000000000000       0x32 selex-fdk/utils/src/sm_cli_retarget.o
@@ -17453,28 +17855,30 @@ Discarded input sections
  .text          0x0000000000000000        0x0 selex-fdk/utils/src/sm_fifo.o
  .data          0x0000000000000000        0x0 selex-fdk/utils/src/sm_fifo.o
  .bss           0x0000000000000000        0x0 selex-fdk/utils/src/sm_fifo.o
+ .text.sm_fifo_new_
+                0x0000000000000000       0x24 selex-fdk/utils/src/sm_fifo.o
  .rodata        0x0000000000000000       0x31 selex-fdk/utils/src/sm_fifo.o
- .text.fifo_init
+ .text.sm_fifo_init
                 0x0000000000000000       0x58 selex-fdk/utils/src/sm_fifo.o
- .text.fifo_deinit
+ .text.sm_fifo_deinit
                 0x0000000000000000       0x10 selex-fdk/utils/src/sm_fifo.o
- .text.fifo_push
+ .text.sm_fifo_push
                 0x0000000000000000       0x22 selex-fdk/utils/src/sm_fifo.o
- .text.fifo_pop
+ .text.sm_fifo_pop
                 0x0000000000000000       0x2c selex-fdk/utils/src/sm_fifo.o
- .text.fifo_get_num_item
+ .text.sm_fifo_get_num_item
                 0x0000000000000000       0x12 selex-fdk/utils/src/sm_fifo.o
- .text.fifo_push_irq
+ .text.sm_fifo_push_irq
                 0x0000000000000000       0x24 selex-fdk/utils/src/sm_fifo.o
- .text.fifo_pop_irq
+ .text.sm_fifo_pop_irq
                 0x0000000000000000       0x24 selex-fdk/utils/src/sm_fifo.o
- .rodata.__func__.6475
-                0x0000000000000000        0xa selex-fdk/utils/src/sm_fifo.o
- .debug_info    0x0000000000000000      0xd4f selex-fdk/utils/src/sm_fifo.o
- .debug_abbrev  0x0000000000000000      0x23b selex-fdk/utils/src/sm_fifo.o
+ .rodata.__func__.6483
+                0x0000000000000000        0xd selex-fdk/utils/src/sm_fifo.o
+ .debug_info    0x0000000000000000      0xd93 selex-fdk/utils/src/sm_fifo.o
+ .debug_abbrev  0x0000000000000000      0x257 selex-fdk/utils/src/sm_fifo.o
  .debug_aranges
-                0x0000000000000000       0x50 selex-fdk/utils/src/sm_fifo.o
- .debug_ranges  0x0000000000000000       0x40 selex-fdk/utils/src/sm_fifo.o
+                0x0000000000000000       0x58 selex-fdk/utils/src/sm_fifo.o
+ .debug_ranges  0x0000000000000000       0x48 selex-fdk/utils/src/sm_fifo.o
  .debug_macro   0x0000000000000000      0x2e3 selex-fdk/utils/src/sm_fifo.o
  .debug_macro   0x0000000000000000      0xa84 selex-fdk/utils/src/sm_fifo.o
  .debug_macro   0x0000000000000000       0x22 selex-fdk/utils/src/sm_fifo.o
@@ -17530,10 +17934,10 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x87 selex-fdk/utils/src/sm_fifo.o
  .debug_macro   0x0000000000000000       0x16 selex-fdk/utils/src/sm_fifo.o
  .debug_macro   0x0000000000000000       0x2e selex-fdk/utils/src/sm_fifo.o
- .debug_line    0x0000000000000000      0x8e7 selex-fdk/utils/src/sm_fifo.o
- .debug_str     0x0000000000000000     0xc859 selex-fdk/utils/src/sm_fifo.o
+ .debug_line    0x0000000000000000      0x905 selex-fdk/utils/src/sm_fifo.o
+ .debug_str     0x0000000000000000     0xc887 selex-fdk/utils/src/sm_fifo.o
  .comment       0x0000000000000000       0x54 selex-fdk/utils/src/sm_fifo.o
- .debug_frame   0x0000000000000000       0xf0 selex-fdk/utils/src/sm_fifo.o
+ .debug_frame   0x0000000000000000      0x110 selex-fdk/utils/src/sm_fifo.o
  .ARM.attributes
                 0x0000000000000000       0x2c selex-fdk/utils/src/sm_fifo.o
  .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_intel_hex.o
@@ -17794,7 +18198,7 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x38 selex-fdk/utils/src/sm_logger.o
  .debug_ranges  0x0000000000000000       0x28 selex-fdk/utils/src/sm_logger.o
- .debug_macro   0x0000000000000000      0x31f selex-fdk/utils/src/sm_logger.o
+ .debug_macro   0x0000000000000000      0x325 selex-fdk/utils/src/sm_logger.o
  .debug_macro   0x0000000000000000      0xa84 selex-fdk/utils/src/sm_logger.o
  .debug_macro   0x0000000000000000       0x22 selex-fdk/utils/src/sm_logger.o
  .debug_macro   0x0000000000000000       0x8e selex-fdk/utils/src/sm_logger.o
@@ -17850,11 +18254,76 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x28 selex-fdk/utils/src/sm_logger.o
  .debug_macro   0x0000000000000000       0x4c selex-fdk/utils/src/sm_logger.o
  .debug_line    0x0000000000000000      0x87e selex-fdk/utils/src/sm_logger.o
- .debug_str     0x0000000000000000     0xca5a selex-fdk/utils/src/sm_logger.o
+ .debug_str     0x0000000000000000     0xca6a selex-fdk/utils/src/sm_logger.o
  .comment       0x0000000000000000       0x54 selex-fdk/utils/src/sm_logger.o
  .debug_frame   0x0000000000000000       0x98 selex-fdk/utils/src/sm_logger.o
  .ARM.attributes
                 0x0000000000000000       0x2c selex-fdk/utils/src/sm_logger.o
+ .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_lowpass_filter.o
+ .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_lowpass_filter.o
+ .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_lowpass_filter.o
+ .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_lowpass_filter.o
+ .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_lowpass_filter.o
+ .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_lowpass_filter.o
+ .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_lowpass_filter.o
+ .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_lowpass_filter.o
+ .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_lowpass_filter.o
+ .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_lowpass_filter.o
+ .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_lowpass_filter.o
+ .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_lowpass_filter.o
+ .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_lowpass_filter.o
+ .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_lowpass_filter.o
+ .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_lowpass_filter.o
+ .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_lowpass_filter.o
+ .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_lowpass_filter.o
+ .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_lowpass_filter.o
+ .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_lowpass_filter.o
+ .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_lowpass_filter.o
+ .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_lowpass_filter.o
+ .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_lowpass_filter.o
+ .text          0x0000000000000000        0x0 selex-fdk/utils/src/sm_lowpass_filter.o
+ .data          0x0000000000000000        0x0 selex-fdk/utils/src/sm_lowpass_filter.o
+ .bss           0x0000000000000000        0x0 selex-fdk/utils/src/sm_lowpass_filter.o
+ .text.sm_lowpass_get_update
+                0x0000000000000000       0x14 selex-fdk/utils/src/sm_lowpass_filter.o
+ .text.sm_lowpass_init
+                0x0000000000000000       0x98 selex-fdk/utils/src/sm_lowpass_filter.o
+ .text.sm_lowpass_update
+                0x0000000000000000       0x4e selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_info    0x0000000000000000      0xa31 selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_abbrev  0x0000000000000000      0x1f3 selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_aranges
+                0x0000000000000000       0x30 selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_ranges  0x0000000000000000       0x20 selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_macro   0x0000000000000000      0x11d selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_macro   0x0000000000000000      0xa84 selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_macro   0x0000000000000000       0x22 selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_macro   0x0000000000000000       0x8e selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_macro   0x0000000000000000       0x51 selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_macro   0x0000000000000000      0x103 selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_macro   0x0000000000000000       0x6a selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_macro   0x0000000000000000      0x1df selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_macro   0x0000000000000000       0x52 selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_macro   0x0000000000000000       0x18 selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_macro   0x0000000000000000       0x3c selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_macro   0x0000000000000000       0x34 selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_macro   0x0000000000000000      0x174 selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_macro   0x0000000000000000       0x16 selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_macro   0x0000000000000000       0x43 selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_macro   0x0000000000000000       0x34 selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_macro   0x0000000000000000       0x10 selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_macro   0x0000000000000000       0x58 selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_macro   0x0000000000000000       0x71 selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_macro   0x0000000000000000       0x1c selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_macro   0x0000000000000000      0x12a selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_macro   0x0000000000000000      0x339 selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_macro   0x0000000000000000      0x1a9 selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_line    0x0000000000000000      0x5af selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_str     0x0000000000000000     0x79ed selex-fdk/utils/src/sm_lowpass_filter.o
+ .comment       0x0000000000000000       0x54 selex-fdk/utils/src/sm_lowpass_filter.o
+ .debug_frame   0x0000000000000000       0x74 selex-fdk/utils/src/sm_lowpass_filter.o
+ .ARM.attributes
+                0x0000000000000000       0x2c selex-fdk/utils/src/sm_lowpass_filter.o
  .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_map.o
  .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_map.o
  .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_map.o
@@ -18018,115 +18487,6 @@ Discarded input sections
  .debug_frame   0x0000000000000000       0x30 selex-fdk/utils/src/sm_math.o
  .ARM.attributes
                 0x0000000000000000       0x2c selex-fdk/utils/src/sm_math.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_ringbuff.o
- .text          0x0000000000000000        0x0 selex-fdk/utils/src/sm_ringbuff.o
- .data          0x0000000000000000        0x0 selex-fdk/utils/src/sm_ringbuff.o
- .bss           0x0000000000000000        0x0 selex-fdk/utils/src/sm_ringbuff.o
- .text.ringbuff_init
-                0x0000000000000000       0x40 selex-fdk/utils/src/sm_ringbuff.o
- .text.ringbuff_push
-                0x0000000000000000       0x60 selex-fdk/utils/src/sm_ringbuff.o
- .text.ringbuff_pop
-                0x0000000000000000       0x5a selex-fdk/utils/src/sm_ringbuff.o
- .text.ringbuff_deinit
-                0x0000000000000000       0x32 selex-fdk/utils/src/sm_ringbuff.o
- .text.ringbuff_get_num_item
-                0x0000000000000000       0x14 selex-fdk/utils/src/sm_ringbuff.o
- .debug_info    0x0000000000000000      0xad2 selex-fdk/utils/src/sm_ringbuff.o
- .debug_abbrev  0x0000000000000000      0x215 selex-fdk/utils/src/sm_ringbuff.o
- .debug_aranges
-                0x0000000000000000       0x40 selex-fdk/utils/src/sm_ringbuff.o
- .debug_ranges  0x0000000000000000       0x30 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000      0x238 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000      0xa84 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x22 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x4c selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x18 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x94 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x3c selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x34 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x16 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x57 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x97 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000      0x339 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0xfd selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x10 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x16 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x43 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x34 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x10 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x58 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x71 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x1c selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000      0x12a selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x10 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x6a selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x1c selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x52 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x22 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x10 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x40 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0xd5 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x1c selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x3d selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x16 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000      0x145 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x16 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x35 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x16 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x29 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000      0x103 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000      0x1df selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x22 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x16 selex-fdk/utils/src/sm_ringbuff.o
- .debug_macro   0x0000000000000000       0x20 selex-fdk/utils/src/sm_ringbuff.o
- .debug_line    0x0000000000000000      0x72a selex-fdk/utils/src/sm_ringbuff.o
- .debug_str     0x0000000000000000     0x82a7 selex-fdk/utils/src/sm_ringbuff.o
- .comment       0x0000000000000000       0x54 selex-fdk/utils/src/sm_ringbuff.o
- .debug_frame   0x0000000000000000       0xb0 selex-fdk/utils/src/sm_ringbuff.o
- .ARM.attributes
-                0x0000000000000000       0x2c selex-fdk/utils/src/sm_ringbuff.o
  .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_stack.o
  .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_stack.o
  .group         0x0000000000000000        0xc selex-fdk/utils/src/sm_stack.o
@@ -18386,6 +18746,20 @@ Discarded input sections
  .debug_frame   0x0000000000000000       0x50 selex-fdk/utils/src/sm_uuid.o
  .ARM.attributes
                 0x0000000000000000       0x2c selex-fdk/utils/src/sm_uuid.o
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++_nano.a(del_ops.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++_nano.a(del_ops.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++_nano.a(del_ops.o)
+ .text._ZdlPvj  0x0000000000000000        0x8 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++_nano.a(del_ops.o)
+ .debug_frame   0x0000000000000000       0x28 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++_nano.a(del_ops.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++_nano.a(del_ops.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++_nano.a(del_op.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++_nano.a(del_op.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++_nano.a(del_op.o)
+ .text._ZdlPv   0x0000000000000000        0x8 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++_nano.a(del_op.o)
+ .debug_frame   0x0000000000000000       0x28 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++_nano.a(del_op.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++_nano.a(del_op.o)
  .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_cos.o)
  .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_cos.o)
  .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_cos.o)
@@ -18400,6 +18774,13 @@ Discarded input sections
  .debug_frame   0x0000000000000000       0x30 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_sin.o)
  .ARM.attributes
                 0x0000000000000000       0x2c c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_sin.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_exp.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_exp.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_exp.o)
+ .text.exp      0x0000000000000000       0x7c c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_exp.o)
+ .debug_frame   0x0000000000000000       0x30 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_exp.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_exp.o)
  .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_sqrt.o)
  .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_sqrt.o)
  .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_sqrt.o)
@@ -18407,6 +18788,17 @@ Discarded input sections
  .debug_frame   0x0000000000000000       0x30 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_sqrt.o)
  .ARM.attributes
                 0x0000000000000000       0x2c c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_sqrt.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_exp.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_exp.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_exp.o)
+ .text.__ieee754_exp
+                0x0000000000000000      0x2d0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_exp.o)
+ .rodata.halF   0x0000000000000000       0x10 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_exp.o)
+ .rodata.ln2HI  0x0000000000000000       0x10 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_exp.o)
+ .rodata.ln2LO  0x0000000000000000       0x10 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_exp.o)
+ .debug_frame   0x0000000000000000       0x30 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_exp.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_exp.o)
  .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_rem_pio2.o)
  .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_rem_pio2.o)
  .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_rem_pio2.o)
@@ -18461,6 +18853,13 @@ Discarded input sections
  .debug_frame   0x0000000000000000       0x20 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_fabs.o)
  .ARM.attributes
                 0x0000000000000000       0x2c c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_fabs.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_finite.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_finite.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_finite.o)
+ .text.finite   0x0000000000000000       0x10 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_finite.o)
+ .debug_frame   0x0000000000000000       0x20 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_finite.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_finite.o)
  .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_floor.o)
  .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_floor.o)
  .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_floor.o)
@@ -19486,6 +19885,19 @@ Discarded input sections
  .debug_frame   0x0000000000000000       0x38 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(bpabi.o)
  .ARM.attributes
                 0x0000000000000000       0x2c c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(bpabi.o)
+ .text          0x0000000000000000      0x338 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(addsf3.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(addsf3.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(addsf3.o)
+ .debug_frame   0x0000000000000000       0x38 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(addsf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(addsf3.o)
+ .text          0x0000000000000000      0x218 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(divsf3.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(divsf3.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(divsf3.o)
+ .rodata        0x0000000000000000       0x80 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(divsf3.o)
+ .debug_frame   0x0000000000000000       0x38 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(divsf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(divsf3.o)
  .text          0x0000000000000000       0x50 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(eqsf2.o)
  .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(eqsf2.o)
  .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(eqsf2.o)
@@ -19504,6 +19916,19 @@ Discarded input sections
  .debug_frame   0x0000000000000000       0x30 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(lesf2.o)
  .ARM.attributes
                 0x0000000000000000       0x2c c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(lesf2.o)
+ .text          0x0000000000000000      0x234 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+ .rodata        0x0000000000000000       0x40 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+ .debug_frame   0x0000000000000000       0x3c c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+ .text          0x0000000000000000      0x390 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(subsf3.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(subsf3.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(subsf3.o)
+ .debug_frame   0x0000000000000000       0x38 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(subsf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(subsf3.o)
  .text          0x0000000000000000       0x2c c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(unordsf2.o)
  .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(unordsf2.o)
  .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(unordsf2.o)
@@ -19684,6 +20109,7 @@ LOAD SBM/app/co_app/od/comm_od/comm_od_default_value.o
 LOAD SBM/app/co_app/od/manu_od/manu_od.o
 LOAD SBM/app/co_app/od/manu_od/manu_od_default_value.o
 LOAD SBM/app/co_app/od/od.o
+LOAD SBM/app/sbm_app/BatteryModule.o
 LOAD SBM/board/board.o
 LOAD SBM/board/porting/src/sm_adc.o
 LOAD SBM/board/porting/src/sm_can.o
@@ -19726,10 +20152,12 @@ LOAD selex-fdk/common/src/sm_modem.o
 LOAD selex-fdk/common/src/sm_mqtt_client.o
 LOAD selex-fdk/common/src/sm_security.o
 LOAD selex-fdk/common/src/sm_spi_flash.o
+LOAD selex-fdk/cores/src/sm_bootloader_t.o
 LOAD selex-fdk/cores/src/sm_bootmaster.o
 LOAD selex-fdk/cores/src/sm_device_shadown.o
 LOAD selex-fdk/cores/src/sm_event.o
 LOAD selex-fdk/cores/src/sm_filesystem.o
+LOAD selex-fdk/cores/src/sm_ota.o
 LOAD selex-fdk/cores/src/sm_sch_task.o
 LOAD selex-fdk/libs/canopen-clib/CO.o
 LOAD selex-fdk/libs/canopen-clib/CO_CAN_Msg.o
@@ -19763,9 +20191,9 @@ LOAD selex-fdk/utils/src/sm_fifo.o
 LOAD selex-fdk/utils/src/sm_intel_hex.o
 LOAD selex-fdk/utils/src/sm_link_list.o
 LOAD selex-fdk/utils/src/sm_logger.o
+LOAD selex-fdk/utils/src/sm_lowpass_filter.o
 LOAD selex-fdk/utils/src/sm_map.o
 LOAD selex-fdk/utils/src/sm_math.o
-LOAD selex-fdk/utils/src/sm_ringbuff.o
 LOAD selex-fdk/utils/src/sm_stack.o
 LOAD selex-fdk/utils/src/sm_string_t.o
 LOAD selex-fdk/utils/src/sm_uuid.o
@@ -21399,7 +21827,7 @@ LOAD c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
  .debug_ranges  0x0000000000002160       0x50 USB_Device/App/usbd_desc.o
  .debug_ranges  0x00000000000021b0      0x110 USB_Device/Target/usbd_conf.o
 
-.debug_macro    0x0000000000000000    0x23ff5
+.debug_macro    0x0000000000000000    0x2403d
  .debug_macro   0x0000000000000000      0x354 Core/Src/app_freertos.o
  .debug_macro   0x0000000000000354      0xa84 Core/Src/app_freertos.o
  .debug_macro   0x0000000000000dd8      0x174 Core/Src/app_freertos.o
@@ -21473,217 +21901,218 @@ LOAD c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
  .debug_macro   0x000000000001ae49      0x67e Core/Src/app_freertos.o
  .debug_macro   0x000000000001b4c7       0xa6 Core/Src/app_freertos.o
  .debug_macro   0x000000000001b56d      0x5df Core/Src/app_freertos.o
- .debug_macro   0x000000000001bb4c      0x4dc Core/Src/main.o
- .debug_macro   0x000000000001c028       0x66 Core/Src/main.o
- .debug_macro   0x000000000001c08e       0x74 Core/Src/main.o
- .debug_macro   0x000000000001c102       0xdd Core/Src/main.o
- .debug_macro   0x000000000001c1df       0x1c Core/Src/main.o
- .debug_macro   0x000000000001c1fb      0x333 Core/Src/main.o
- .debug_macro   0x000000000001c52e       0x10 Core/Src/main.o
- .debug_macro   0x000000000001c53e       0x10 Core/Src/main.o
- .debug_macro   0x000000000001c54e       0x1c Core/Src/main.o
- .debug_macro   0x000000000001c56a       0x52 Core/Src/main.o
- .debug_macro   0x000000000001c5bc       0x22 Core/Src/main.o
- .debug_macro   0x000000000001c5de       0x10 Core/Src/main.o
- .debug_macro   0x000000000001c5ee       0x40 Core/Src/main.o
- .debug_macro   0x000000000001c62e       0xd5 Core/Src/main.o
- .debug_macro   0x000000000001c703       0x1c Core/Src/main.o
- .debug_macro   0x000000000001c71f       0x3d Core/Src/main.o
- .debug_macro   0x000000000001c75c       0x16 Core/Src/main.o
- .debug_macro   0x000000000001c772      0x145 Core/Src/main.o
- .debug_macro   0x000000000001c8b7       0x16 Core/Src/main.o
- .debug_macro   0x000000000001c8cd       0x16 Core/Src/main.o
- .debug_macro   0x000000000001c8e3       0x29 Core/Src/main.o
- .debug_macro   0x000000000001c90c       0x16 Core/Src/main.o
- .debug_macro   0x000000000001c922       0x20 Core/Src/main.o
- .debug_macro   0x000000000001c942       0x5f Core/Src/main.o
- .debug_macro   0x000000000001c9a1      0x1ef Core/Src/main.o
- .debug_macro   0x000000000001cb90      0x24f Core/Src/stm32g0xx_hal_msp.o
- .debug_macro   0x000000000001cddf      0x245 Core/Src/stm32g0xx_hal_timebase_tim.o
- .debug_macro   0x000000000001d024      0x259 Core/Src/stm32g0xx_it.o
- .debug_macro   0x000000000001d27d      0x24b Core/Src/system_stm32g0xx.o
- .debug_macro   0x000000000001d4c8      0x269 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.o
- .debug_macro   0x000000000001d731      0x245 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.o
- .debug_macro   0x000000000001d976      0x245 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.o
- .debug_macro   0x000000000001dbbb      0x357 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_fdcan.o
- .debug_macro   0x000000000001df12      0x27d Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.o
- .debug_macro   0x000000000001e18f      0x30a Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_i2c.o
- .debug_macro   0x000000000001e499      0x245 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_i2c_ex.o
- .debug_macro   0x000000000001e6de      0x24c Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_iwdg.o
- .debug_macro   0x000000000001e92a      0x251 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd.o
- .debug_macro   0x000000000001eb7b      0x245 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd_ex.o
- .debug_macro   0x000000000001edc0      0x26f Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.o
- .debug_macro   0x000000000001f02f      0x299 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.o
- .debug_macro   0x000000000001f2c8      0x25d Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.o
- .debug_macro   0x000000000001f525      0x24d Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_spi.o
- .debug_macro   0x000000000001f772      0x24d Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.o
- .debug_macro   0x000000000001f9bf      0x24b Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.o
- .debug_macro   0x000000000001fc0a      0x270 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.o
- .debug_macro   0x000000000001fe7a      0x251 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.o
- .debug_macro   0x00000000000200cb      0x245 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.o
- .debug_macro   0x0000000000020310      0x45b Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.o
- .debug_macro   0x000000000002076b       0x16 Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.o
- .debug_macro   0x0000000000020781       0x97 Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.o
- .debug_macro   0x0000000000020818       0xfd Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.o
- .debug_macro   0x0000000000020915       0xd1 Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.o
- .debug_macro   0x00000000000209e6       0x56 Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.o
- .debug_macro   0x0000000000020a3c       0x95 Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.o
- .debug_macro   0x0000000000020ad1      0x442 Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.o
- .debug_macro   0x0000000000020f13      0x1f5 Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.o
- .debug_macro   0x0000000000021108      0x44c Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.o
- .debug_macro   0x0000000000021554      0x448 Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.o
- .debug_macro   0x000000000002199c      0x44e Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
- .debug_macro   0x0000000000021dea       0x10 Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
- .debug_macro   0x0000000000021dfa       0x10 Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
- .debug_macro   0x0000000000021e0a       0xcb Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
- .debug_macro   0x0000000000021ed5       0x16 Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
- .debug_macro   0x0000000000021eeb       0x91 Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
- .debug_macro   0x0000000000021f7c       0x8d Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
- .debug_macro   0x0000000000022009       0x9a Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
- .debug_macro   0x00000000000220a3       0x22 Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
- .debug_macro   0x00000000000220c5      0x199 Middlewares/Third_Party/FreeRTOS/Source/list.o
- .debug_macro   0x000000000002225e      0x228 Middlewares/Third_Party/FreeRTOS/Source/queue.o
- .debug_macro   0x0000000000022486       0x87 Middlewares/Third_Party/FreeRTOS/Source/queue.o
- .debug_macro   0x000000000002250d      0x291 Middlewares/Third_Party/FreeRTOS/Source/tasks.o
- .debug_macro   0x000000000002279e       0x10 Middlewares/Third_Party/FreeRTOS/Source/tasks.o
- .debug_macro   0x00000000000227ae      0x1ee Middlewares/Third_Party/FreeRTOS/Source/timers.o
- .debug_macro   0x000000000002299c       0x97 Middlewares/Third_Party/FreeRTOS/Source/timers.o
- .debug_macro   0x0000000000022a33      0x1d3 Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM0/port.o
- .debug_macro   0x0000000000022c06      0x1c0 Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
- .debug_macro   0x0000000000022dc6      0x481 USB_Device/App/usb_device.o
- .debug_macro   0x0000000000023247       0x22 USB_Device/App/usb_device.o
- .debug_macro   0x0000000000023269       0x16 USB_Device/App/usb_device.o
- .debug_macro   0x000000000002327f      0x466 USB_Device/App/usbd_cdc_if.o
- .debug_macro   0x00000000000236e5       0x10 USB_Device/App/usbd_cdc_if.o
- .debug_macro   0x00000000000236f5      0x47f USB_Device/App/usbd_desc.o
- .debug_macro   0x0000000000023b74       0x1c USB_Device/App/usbd_desc.o
- .debug_macro   0x0000000000023b90      0x465 USB_Device/Target/usbd_conf.o
+ .debug_macro   0x000000000001bb4c      0x502 Core/Src/main.o
+ .debug_macro   0x000000000001c04e       0x66 Core/Src/main.o
+ .debug_macro   0x000000000001c0b4       0x74 Core/Src/main.o
+ .debug_macro   0x000000000001c128       0xdd Core/Src/main.o
+ .debug_macro   0x000000000001c205       0x1c Core/Src/main.o
+ .debug_macro   0x000000000001c221      0x333 Core/Src/main.o
+ .debug_macro   0x000000000001c554       0x10 Core/Src/main.o
+ .debug_macro   0x000000000001c564       0x10 Core/Src/main.o
+ .debug_macro   0x000000000001c574       0x1c Core/Src/main.o
+ .debug_macro   0x000000000001c590       0x52 Core/Src/main.o
+ .debug_macro   0x000000000001c5e2       0x22 Core/Src/main.o
+ .debug_macro   0x000000000001c604       0x10 Core/Src/main.o
+ .debug_macro   0x000000000001c614       0x40 Core/Src/main.o
+ .debug_macro   0x000000000001c654       0xd5 Core/Src/main.o
+ .debug_macro   0x000000000001c729       0x1c Core/Src/main.o
+ .debug_macro   0x000000000001c745       0x3d Core/Src/main.o
+ .debug_macro   0x000000000001c782       0x16 Core/Src/main.o
+ .debug_macro   0x000000000001c798      0x145 Core/Src/main.o
+ .debug_macro   0x000000000001c8dd       0x16 Core/Src/main.o
+ .debug_macro   0x000000000001c8f3       0x16 Core/Src/main.o
+ .debug_macro   0x000000000001c909       0x29 Core/Src/main.o
+ .debug_macro   0x000000000001c932       0x16 Core/Src/main.o
+ .debug_macro   0x000000000001c948       0x20 Core/Src/main.o
+ .debug_macro   0x000000000001c968       0x5f Core/Src/main.o
+ .debug_macro   0x000000000001c9c7      0x1ef Core/Src/main.o
+ .debug_macro   0x000000000001cbb6       0x22 Core/Src/main.o
+ .debug_macro   0x000000000001cbd8       0x87 Core/Src/main.o
+ .debug_macro   0x000000000001cc5f      0x24f Core/Src/stm32g0xx_hal_msp.o
+ .debug_macro   0x000000000001ceae      0x245 Core/Src/stm32g0xx_hal_timebase_tim.o
+ .debug_macro   0x000000000001d0f3      0x259 Core/Src/stm32g0xx_it.o
+ .debug_macro   0x000000000001d34c      0x24b Core/Src/system_stm32g0xx.o
+ .debug_macro   0x000000000001d597      0x269 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.o
+ .debug_macro   0x000000000001d800      0x245 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.o
+ .debug_macro   0x000000000001da45      0x245 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.o
+ .debug_macro   0x000000000001dc8a      0x357 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_fdcan.o
+ .debug_macro   0x000000000001dfe1      0x27d Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.o
+ .debug_macro   0x000000000001e25e      0x30a Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_i2c.o
+ .debug_macro   0x000000000001e568      0x245 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_i2c_ex.o
+ .debug_macro   0x000000000001e7ad      0x24c Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_iwdg.o
+ .debug_macro   0x000000000001e9f9      0x251 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd.o
+ .debug_macro   0x000000000001ec4a      0x245 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd_ex.o
+ .debug_macro   0x000000000001ee8f      0x26f Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.o
+ .debug_macro   0x000000000001f0fe      0x299 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.o
+ .debug_macro   0x000000000001f397      0x25d Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.o
+ .debug_macro   0x000000000001f5f4      0x24d Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_spi.o
+ .debug_macro   0x000000000001f841      0x24d Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.o
+ .debug_macro   0x000000000001fa8e      0x24b Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.o
+ .debug_macro   0x000000000001fcd9      0x270 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.o
+ .debug_macro   0x000000000001ff49      0x251 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.o
+ .debug_macro   0x000000000002019a      0x245 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.o
+ .debug_macro   0x00000000000203df      0x45b Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.o
+ .debug_macro   0x000000000002083a       0x16 Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.o
+ .debug_macro   0x0000000000020850       0x97 Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.o
+ .debug_macro   0x00000000000208e7       0xfd Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.o
+ .debug_macro   0x00000000000209e4       0xd1 Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.o
+ .debug_macro   0x0000000000020ab5       0x56 Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.o
+ .debug_macro   0x0000000000020b0b       0x95 Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.o
+ .debug_macro   0x0000000000020ba0      0x442 Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.o
+ .debug_macro   0x0000000000020fe2      0x1f5 Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.o
+ .debug_macro   0x00000000000211d7      0x44c Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.o
+ .debug_macro   0x0000000000021623      0x448 Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.o
+ .debug_macro   0x0000000000021a6b      0x44e Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
+ .debug_macro   0x0000000000021eb9       0x10 Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
+ .debug_macro   0x0000000000021ec9       0x10 Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
+ .debug_macro   0x0000000000021ed9       0xcb Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
+ .debug_macro   0x0000000000021fa4       0x16 Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
+ .debug_macro   0x0000000000021fba       0x91 Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
+ .debug_macro   0x000000000002204b       0x8d Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
+ .debug_macro   0x00000000000220d8       0x9a Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
+ .debug_macro   0x0000000000022172       0x22 Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
+ .debug_macro   0x0000000000022194      0x199 Middlewares/Third_Party/FreeRTOS/Source/list.o
+ .debug_macro   0x000000000002232d      0x228 Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .debug_macro   0x0000000000022555      0x291 Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .debug_macro   0x00000000000227e6       0x10 Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .debug_macro   0x00000000000227f6      0x1ee Middlewares/Third_Party/FreeRTOS/Source/timers.o
+ .debug_macro   0x00000000000229e4       0x97 Middlewares/Third_Party/FreeRTOS/Source/timers.o
+ .debug_macro   0x0000000000022a7b      0x1d3 Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM0/port.o
+ .debug_macro   0x0000000000022c4e      0x1c0 Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000022e0e      0x481 USB_Device/App/usb_device.o
+ .debug_macro   0x000000000002328f       0x22 USB_Device/App/usb_device.o
+ .debug_macro   0x00000000000232b1       0x16 USB_Device/App/usb_device.o
+ .debug_macro   0x00000000000232c7      0x466 USB_Device/App/usbd_cdc_if.o
+ .debug_macro   0x000000000002372d       0x10 USB_Device/App/usbd_cdc_if.o
+ .debug_macro   0x000000000002373d      0x47f USB_Device/App/usbd_desc.o
+ .debug_macro   0x0000000000023bbc       0x1c USB_Device/App/usbd_desc.o
+ .debug_macro   0x0000000000023bd8      0x465 USB_Device/Target/usbd_conf.o
 
-.debug_line     0x0000000000000000    0x2c15c
+.debug_line     0x0000000000000000    0x2c1da
  .debug_line    0x0000000000000000      0xa08 Core/Src/app_freertos.o
- .debug_line    0x0000000000000a08      0xee6 Core/Src/main.o
- .debug_line    0x00000000000018ee      0x97a Core/Src/stm32g0xx_hal_msp.o
- .debug_line    0x0000000000002268      0x840 Core/Src/stm32g0xx_hal_timebase_tim.o
- .debug_line    0x0000000000002aa8      0x87c Core/Src/stm32g0xx_it.o
- .debug_line    0x0000000000003324      0x85e Core/Src/system_stm32g0xx.o
- .debug_line    0x0000000000003b82       0x89 Core/Startup/startup_stm32g0b1rctx.o
- .debug_line    0x0000000000003c0b      0xbbc Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.o
- .debug_line    0x00000000000047c7      0xc0d Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.o
- .debug_line    0x00000000000053d4      0xf23 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.o
- .debug_line    0x00000000000062f7     0x196e Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_fdcan.o
- .debug_line    0x0000000000007c65      0xc17 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.o
- .debug_line    0x000000000000887c     0x33b4 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_i2c.o
- .debug_line    0x000000000000bc30      0xa01 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_i2c_ex.o
- .debug_line    0x000000000000c631      0x860 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_iwdg.o
- .debug_line    0x000000000000ce91     0x1357 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd.o
- .debug_line    0x000000000000e1e8      0x954 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd_ex.o
- .debug_line    0x000000000000eb3c      0xc53 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.o
- .debug_line    0x000000000000f78f      0xffa Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.o
- .debug_line    0x0000000000010789     0x1211 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.o
- .debug_line    0x000000000001199a     0x1f60 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_spi.o
- .debug_line    0x00000000000138fa     0x3c97 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.o
- .debug_line    0x0000000000017591     0x1f15 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.o
- .debug_line    0x00000000000194a6     0x22f4 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.o
- .debug_line    0x000000000001b79a      0xde3 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.o
- .debug_line    0x000000000001c57d     0x16aa Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.o
- .debug_line    0x000000000001dc27      0xea6 Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.o
- .debug_line    0x000000000001eacd      0xf2a Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.o
- .debug_line    0x000000000001f9f7     0x11c3 Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.o
- .debug_line    0x0000000000020bba      0xb81 Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.o
- .debug_line    0x000000000002173b     0x24a9 Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
- .debug_line    0x0000000000023be4      0x715 Middlewares/Third_Party/FreeRTOS/Source/list.o
- .debug_line    0x00000000000242f9     0x1424 Middlewares/Third_Party/FreeRTOS/Source/queue.o
- .debug_line    0x000000000002571d     0x1ac7 Middlewares/Third_Party/FreeRTOS/Source/tasks.o
- .debug_line    0x00000000000271e4      0xc58 Middlewares/Third_Party/FreeRTOS/Source/timers.o
- .debug_line    0x0000000000027e3c      0x7a5 Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM0/port.o
- .debug_line    0x00000000000285e1      0x908 Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
- .debug_line    0x0000000000028ee9      0xb3d USB_Device/App/usb_device.o
- .debug_line    0x0000000000029a26      0xb9e USB_Device/App/usbd_cdc_if.o
- .debug_line    0x000000000002a5c4      0xc06 USB_Device/App/usbd_desc.o
- .debug_line    0x000000000002b1ca      0xf92 USB_Device/Target/usbd_conf.o
+ .debug_line    0x0000000000000a08      0xf64 Core/Src/main.o
+ .debug_line    0x000000000000196c      0x97a Core/Src/stm32g0xx_hal_msp.o
+ .debug_line    0x00000000000022e6      0x840 Core/Src/stm32g0xx_hal_timebase_tim.o
+ .debug_line    0x0000000000002b26      0x87c Core/Src/stm32g0xx_it.o
+ .debug_line    0x00000000000033a2      0x85e Core/Src/system_stm32g0xx.o
+ .debug_line    0x0000000000003c00       0x89 Core/Startup/startup_stm32g0b1rctx.o
+ .debug_line    0x0000000000003c89      0xbbc Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.o
+ .debug_line    0x0000000000004845      0xc0d Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.o
+ .debug_line    0x0000000000005452      0xf23 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.o
+ .debug_line    0x0000000000006375     0x196e Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_fdcan.o
+ .debug_line    0x0000000000007ce3      0xc17 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.o
+ .debug_line    0x00000000000088fa     0x33b4 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_i2c.o
+ .debug_line    0x000000000000bcae      0xa01 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_i2c_ex.o
+ .debug_line    0x000000000000c6af      0x860 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_iwdg.o
+ .debug_line    0x000000000000cf0f     0x1357 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd.o
+ .debug_line    0x000000000000e266      0x954 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd_ex.o
+ .debug_line    0x000000000000ebba      0xc53 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.o
+ .debug_line    0x000000000000f80d      0xffa Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.o
+ .debug_line    0x0000000000010807     0x1211 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.o
+ .debug_line    0x0000000000011a18     0x1f60 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_spi.o
+ .debug_line    0x0000000000013978     0x3c97 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.o
+ .debug_line    0x000000000001760f     0x1f15 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.o
+ .debug_line    0x0000000000019524     0x22f4 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.o
+ .debug_line    0x000000000001b818      0xde3 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.o
+ .debug_line    0x000000000001c5fb     0x16aa Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.o
+ .debug_line    0x000000000001dca5      0xea6 Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.o
+ .debug_line    0x000000000001eb4b      0xf2a Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.o
+ .debug_line    0x000000000001fa75     0x11c3 Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.o
+ .debug_line    0x0000000000020c38      0xb81 Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.o
+ .debug_line    0x00000000000217b9     0x24a9 Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
+ .debug_line    0x0000000000023c62      0x715 Middlewares/Third_Party/FreeRTOS/Source/list.o
+ .debug_line    0x0000000000024377     0x1424 Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .debug_line    0x000000000002579b     0x1ac7 Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .debug_line    0x0000000000027262      0xc58 Middlewares/Third_Party/FreeRTOS/Source/timers.o
+ .debug_line    0x0000000000027eba      0x7a5 Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM0/port.o
+ .debug_line    0x000000000002865f      0x908 Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
+ .debug_line    0x0000000000028f67      0xb3d USB_Device/App/usb_device.o
+ .debug_line    0x0000000000029aa4      0xb9e USB_Device/App/usbd_cdc_if.o
+ .debug_line    0x000000000002a642      0xc06 USB_Device/App/usbd_desc.o
+ .debug_line    0x000000000002b248      0xf92 USB_Device/Target/usbd_conf.o
 
-.debug_str      0x0000000000000000    0xd43ab
+.debug_str      0x0000000000000000    0xd43fa
  .debug_str     0x0000000000000000    0xc1784 Core/Src/app_freertos.o
                                       0xc1f42 (size before relaxing)
- .debug_str     0x00000000000c1784     0x514b Core/Src/main.o
-                                      0xc721f (size before relaxing)
- .debug_str     0x00000000000c68cf      0x311 Core/Src/stm32g0xx_hal_msp.o
+ .debug_str     0x00000000000c1784     0x597f Core/Src/main.o
+                                      0xc7a53 (size before relaxing)
+ .debug_str     0x00000000000c7103      0x311 Core/Src/stm32g0xx_hal_msp.o
                                       0xbd5d8 (size before relaxing)
- .debug_str     0x00000000000c6be0       0x98 Core/Src/stm32g0xx_hal_timebase_tim.o
+ .debug_str     0x00000000000c7414       0x98 Core/Src/stm32g0xx_hal_timebase_tim.o
                                       0xbcef3 (size before relaxing)
- .debug_str     0x00000000000c6c78      0x3b3 Core/Src/stm32g0xx_it.o
+ .debug_str     0x00000000000c74ac      0x3b3 Core/Src/stm32g0xx_it.o
                                       0xbd3ec (size before relaxing)
- .debug_str     0x00000000000c702b       0x9c Core/Src/system_stm32g0xx.o
+ .debug_str     0x00000000000c785f       0x9c Core/Src/system_stm32g0xx.o
                                       0xbc683 (size before relaxing)
- .debug_str     0x00000000000c70c7       0x36 Core/Startup/startup_stm32g0b1rctx.o
+ .debug_str     0x00000000000c78fb       0x36 Core/Startup/startup_stm32g0b1rctx.o
                                          0x7d (size before relaxing)
- .debug_str     0x00000000000c70fd      0x520 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.o
+ .debug_str     0x00000000000c7931      0x520 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.o
                                       0xbce7e (size before relaxing)
- .debug_str     0x00000000000c761d      0x27e Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.o
+ .debug_str     0x00000000000c7e51      0x27e Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.o
                                       0xbcb41 (size before relaxing)
- .debug_str     0x00000000000c789b      0x2a1 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.o
+ .debug_str     0x00000000000c80cf      0x2a1 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.o
                                       0xbcad8 (size before relaxing)
- .debug_str     0x00000000000c7b3c     0x1326 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_fdcan.o
+ .debug_str     0x00000000000c8370     0x1326 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_fdcan.o
                                       0xbdc96 (size before relaxing)
- .debug_str     0x00000000000c8e62      0x25d Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.o
+ .debug_str     0x00000000000c9696      0x25d Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.o
                                       0xbc875 (size before relaxing)
- .debug_str     0x00000000000c90bf      0xd33 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_i2c.o
+ .debug_str     0x00000000000c98f3      0xd33 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_i2c.o
                                       0xbd93b (size before relaxing)
- .debug_str     0x00000000000c9df2       0xb8 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_i2c_ex.o
+ .debug_str     0x00000000000ca626       0xb8 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_i2c_ex.o
                                       0xbcc9d (size before relaxing)
- .debug_str     0x00000000000c9eaa       0x96 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_iwdg.o
+ .debug_str     0x00000000000ca6de       0x96 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_iwdg.o
                                       0xbc661 (size before relaxing)
- .debug_str     0x00000000000c9f40      0x3da Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd.o
+ .debug_str     0x00000000000ca774      0x3da Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd.o
                                       0xbccc7 (size before relaxing)
- .debug_str     0x00000000000ca31a      0x1c6 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd_ex.o
+ .debug_str     0x00000000000cab4e      0x1c6 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd_ex.o
                                       0xbca9d (size before relaxing)
- .debug_str     0x00000000000ca4e0      0x410 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.o
+ .debug_str     0x00000000000cad14      0x410 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.o
                                       0xbcbdd (size before relaxing)
- .debug_str     0x00000000000ca8f0      0x3bd Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.o
+ .debug_str     0x00000000000cb124      0x3bd Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.o
                                       0xbccce (size before relaxing)
- .debug_str     0x00000000000cacad      0x335 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.o
+ .debug_str     0x00000000000cb4e1      0x335 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.o
                                       0xbcc39 (size before relaxing)
- .debug_str     0x00000000000cafe2      0x546 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_spi.o
+ .debug_str     0x00000000000cb816      0x546 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_spi.o
                                       0xbcfd0 (size before relaxing)
- .debug_str     0x00000000000cb528      0xe68 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.o
+ .debug_str     0x00000000000cbd5c      0xe68 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.o
                                       0xbdad0 (size before relaxing)
- .debug_str     0x00000000000cc390      0x6f5 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.o
+ .debug_str     0x00000000000ccbc4      0x6f5 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.o
                                       0xbd440 (size before relaxing)
- .debug_str     0x00000000000cca85      0x930 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.o
+ .debug_str     0x00000000000cd2b9      0x930 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.o
                                       0xbd4c8 (size before relaxing)
- .debug_str     0x00000000000cd3b5      0x2de Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.o
+ .debug_str     0x00000000000cdbe9      0x2de Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.o
                                       0xbcdaa (size before relaxing)
- .debug_str     0x00000000000cd693      0x4c0 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.o
+ .debug_str     0x00000000000cdec7      0x4c0 Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.o
                                       0xbcc9c (size before relaxing)
- .debug_str     0x00000000000cdb53      0x91d Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.o
+ .debug_str     0x00000000000ce387      0x91d Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.o
                                       0xc1e4c (size before relaxing)
- .debug_str     0x00000000000ce470      0x1a9 Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.o
+ .debug_str     0x00000000000ceca4      0x1a9 Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.o
                                       0xc171a (size before relaxing)
- .debug_str     0x00000000000ce619      0x152 Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.o
+ .debug_str     0x00000000000cee4d      0x152 Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.o
                                       0xc16d8 (size before relaxing)
- .debug_str     0x00000000000ce76b       0xc9 Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.o
+ .debug_str     0x00000000000cef9f       0xc9 Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.o
                                       0xc1628 (size before relaxing)
- .debug_str     0x00000000000ce834     0x2aa9 Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
+ .debug_str     0x00000000000cf068     0x22c4 Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.o
                                       0xc690b (size before relaxing)
- .debug_str     0x00000000000d12dd      0x12d Middlewares/Third_Party/FreeRTOS/Source/list.o
+ .debug_str     0x00000000000d132c      0x12d Middlewares/Third_Party/FreeRTOS/Source/list.o
                                        0xa8d2 (size before relaxing)
- .debug_str     0x00000000000d140a      0x92d Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .debug_str     0x00000000000d1459      0x92d Middlewares/Third_Party/FreeRTOS/Source/queue.o
                                        0xc1ec (size before relaxing)
- .debug_str     0x00000000000d1d37     0x1357 Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .debug_str     0x00000000000d1d86     0x1357 Middlewares/Third_Party/FreeRTOS/Source/tasks.o
                                        0xce00 (size before relaxing)
- .debug_str     0x00000000000d308e      0x617 Middlewares/Third_Party/FreeRTOS/Source/timers.o
+ .debug_str     0x00000000000d30dd      0x617 Middlewares/Third_Party/FreeRTOS/Source/timers.o
                                        0xc7b6 (size before relaxing)
- .debug_str     0x00000000000d36a5      0x457 Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM0/port.o
+ .debug_str     0x00000000000d36f4      0x457 Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM0/port.o
                                        0x9db6 (size before relaxing)
- .debug_str     0x00000000000d3afc      0x33b Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
+ .debug_str     0x00000000000d3b4b      0x33b Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
                                        0xb1a6 (size before relaxing)
- .debug_str     0x00000000000d3e37      0x119 USB_Device/App/usb_device.o
+ .debug_str     0x00000000000d3e86      0x119 USB_Device/App/usb_device.o
                                       0xc19b8 (size before relaxing)
- .debug_str     0x00000000000d3f50       0x9a USB_Device/App/usbd_cdc_if.o
+ .debug_str     0x00000000000d3f9f       0x9a USB_Device/App/usbd_cdc_if.o
                                       0xc1a09 (size before relaxing)
- .debug_str     0x00000000000d3fea      0x254 USB_Device/App/usbd_desc.o
+ .debug_str     0x00000000000d4039      0x254 USB_Device/App/usbd_desc.o
                                       0xc1561 (size before relaxing)
- .debug_str     0x00000000000d423e      0x16d USB_Device/Target/usbd_conf.o
+ .debug_str     0x00000000000d428d      0x16d USB_Device/Target/usbd_conf.o
                                       0xc2233 (size before relaxing)
 
 .comment        0x0000000000000000       0x53

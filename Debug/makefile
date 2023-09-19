@@ -24,6 +24,7 @@ RM := rm -rf
 -include SBM/service/assign/subdir.mk
 -include SBM/board/porting/src/subdir.mk
 -include SBM/board/subdir.mk
+-include SBM/app/sbm_app/subdir.mk
 -include SBM/app/co_app/od/manu_od/subdir.mk
 -include SBM/app/co_app/od/comm_od/subdir.mk
 -include SBM/app/co_app/od/subdir.mk
@@ -90,6 +91,9 @@ default.size.stdout \
 OBJDUMP_LIST += \
 Selex_Battery_Module.list \
 
+OBJCOPY_HEX += \
+Selex_Battery_Module.hex \
+
 OBJCOPY_BIN += \
 Selex_Battery_Module.bin \
 
@@ -116,6 +120,11 @@ Selex_Battery_Module.list: $(EXECUTABLES) makefile objects.list $(OPTIONAL_TOOL_
 	@echo 'Finished building: $@'
 	@echo ' '
 
+Selex_Battery_Module.hex: $(EXECUTABLES) makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-objcopy  -O ihex $(EXECUTABLES) "Selex_Battery_Module.hex"
+	@echo 'Finished building: $@'
+	@echo ' '
+
 Selex_Battery_Module.bin: $(EXECUTABLES) makefile objects.list $(OPTIONAL_TOOL_DEPS)
 	arm-none-eabi-objcopy  -O binary $(EXECUTABLES) "Selex_Battery_Module.bin"
 	@echo 'Finished building: $@'
@@ -126,7 +135,7 @@ clean:
 	-$(RM) *
 	-@echo ' '
 
-secondary-outputs: $(SIZE_OUTPUT) $(OBJDUMP_LIST) $(OBJCOPY_BIN)
+secondary-outputs: $(SIZE_OUTPUT) $(OBJDUMP_LIST) $(OBJCOPY_HEX) $(OBJCOPY_BIN)
 
 fail-specified-linker-script-missing:
 	@echo 'Error: Cannot find the specified linker script. Check the linker settings in the build configuration.'

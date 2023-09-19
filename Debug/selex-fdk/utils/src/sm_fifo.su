@@ -1,7 +1,8 @@
-sm_fifo.c:135:6:fifo_init	48	static
-sm_fifo.c:143:6:fifo_deinit	16	static
-sm_fifo.c:147:6:fifo_push	16	static
-sm_fifo.c:152:6:fifo_pop	16	static
-sm_fifo.c:160:14:fifo_get_num_item	16	static
-sm_fifo.c:164:6:fifo_push_irq	24	static
-sm_fifo.c:170:6:fifo_pop_irq	24	static
+sm_fifo.c:135:19:sm_fifo_new_	24	static
+sm_fifo.c:144:6:sm_fifo_init	48	static
+sm_fifo.c:152:6:sm_fifo_deinit	16	static
+sm_fifo.c:156:6:sm_fifo_push	16	static
+sm_fifo.c:161:6:sm_fifo_pop	16	static
+sm_fifo.c:169:14:sm_fifo_get_num_item	16	static
+sm_fifo.c:173:6:sm_fifo_push_irq	24	static
+sm_fifo.c:179:6:sm_fifo_pop_irq	24	static

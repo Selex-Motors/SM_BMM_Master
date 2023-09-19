@@ -8,6 +8,10 @@
 #ifndef APPS_SM_SBP_H_
 #define APPS_SM_SBP_H_
 
+#ifdef __cplusplus
+extern "C" {
+#endif
+
 #include "stdio.h"
 #include "stdint.h"
 #include "stdbool.h"
@@ -163,4 +167,9 @@ static inline bool sm_sbp_key_hold_on(SBP_t *_this)
 	if(_this->_if->key_hold_on == NULL) return false;
 	return _this->_if->key_hold_on();
 }
+
+#ifdef __cplusplus
+}
+#endif
+
 #endif /* APPS_SM_SBP_H_ */

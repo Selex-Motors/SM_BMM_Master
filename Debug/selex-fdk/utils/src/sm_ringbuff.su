@@ -1,5 +1,0 @@
-sm_ringbuff.c:12:6:ringbuff_init	24	static
-sm_ringbuff.c:24:6:ringbuff_push	24	static
-sm_ringbuff.c:34:6:ringbuff_pop	16	static
-sm_ringbuff.c:43:6:ringbuff_deinit	16	static
-sm_ringbuff.c:53:14:ringbuff_get_num_item	16	static

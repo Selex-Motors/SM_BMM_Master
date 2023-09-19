@@ -1,0 +1,8 @@
+sm_mqtt_client.h:97:38:sm_mqtt_subscribes	24	static
+sm_mqtt_client.h:100:38:sm_mqtt_unsubscribes	16	static
+sm_ota.c:12:6:sm_ota_device_init	40	static
+sm_ota.c:45:6:sm_ota_set_callback	16	static
+sm_ota.c:49:6:sm_ota_device_deinit	16	static
+sm_ota.c:64:6:sm_ota_change_device	24	static
+sm_ota.c:69:6:sm_ota_connect	16	static
+sm_ota.c:74:6:sm_ota_disconnect	16	static

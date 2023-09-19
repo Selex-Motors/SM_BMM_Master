@@ -20,6 +20,7 @@ S_DEPS :=
 C_DEPS := 
 OBJCOPY_BIN := 
 CC_DEPS := 
+OBJCOPY_HEX := 
 SIZE_OUTPUT := 
 C++_DEPS := 
 EXECUTABLES := 
@@ -43,6 +44,7 @@ SBM/app/co_app/init \
 SBM/app/co_app/od/comm_od \
 SBM/app/co_app/od/manu_od \
 SBM/app/co_app/od \
+SBM/app/sbm_app \
 SBM/board \
 SBM/board/porting/src \
 SBM/service/assign \

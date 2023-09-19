@@ -1,7 +1,9 @@
-sm_mqtt_client.c:17:6:sm_mqtt_client_set_state	24	static
-sm_mqtt_client.c:22:21:sm_mqtt_client_get_state	24	static
-sm_mqtt_client.c:28:20:mqtt_client_set_event	16	static
-sm_mqtt_client.c:32:38:mqtt_client_get_event	32	static
-sm_mqtt_client.c:39:19:sm_mqtt_client_init	32	static
-sm_mqtt_client.c:55:6:sm_mqtt_client_deinit	24	static
-sm_mqtt_client.c:62:6:sm_mqtt_client_process	40	static
+sm_mqtt_client.c:22:6:sm_mqtt_client_set_state	24	static
+sm_mqtt_client.c:27:21:sm_mqtt_client_get_state	24	static
+sm_mqtt_client.c:33:20:mqtt_client_set_event	16	static
+sm_mqtt_client.c:37:38:mqtt_client_get_event	32	static
+sm_mqtt_client.c:44:19:sm_mqtt_client_init	32	static
+sm_mqtt_client.c:61:6:sm_mqtt_client_deinit	24	static
+sm_mqtt_client.c:68:6:sm_mqtt_client_register_handle	16	static
+sm_mqtt_client.c:75:6:sm_mqtt_client_unregister_handle	24	static
+sm_mqtt_client.c:96:6:sm_mqtt_client_process	40	static

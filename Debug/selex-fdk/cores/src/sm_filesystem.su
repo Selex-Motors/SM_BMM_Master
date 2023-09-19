@@ -1,5 +1,6 @@
-sm_filesystem.c:39:5:sm_file_system_init	32	static
-sm_filesystem.c:61:5:sm_littlefs_flash_read	48	static
-sm_filesystem.c:70:5:sm_littlefs_flash_write	48	static
-sm_filesystem.c:79:5:sm_littlefs_flash_erase	24	static
-sm_filesystem.c:84:5:sm_littlefs_flash_sync	16	static
+sm_filesystem.c:25:5:sm_file_system_init	24	static
+sm_filesystem.c:54:5:sm_file_switch_disk	16	static
+sm_filesystem.c:58:5:sm_littlefs_flash_read	40	static
+sm_filesystem.c:72:5:sm_littlefs_flash_write	40	static
+sm_filesystem.c:85:5:sm_littlefs_flash_erase	24	static
+sm_filesystem.c:94:5:sm_littlefs_flash_sync	16	static

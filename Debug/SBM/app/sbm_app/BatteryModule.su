@@ -1,0 +1,3 @@
+BatteryModule.cpp:10:1:BatteryModule::BatteryModule()	16	static
+BatteryModule.cpp:16:1:BatteryModule::~BatteryModule()	16	static
+BatteryModule.cpp:16:1:virtual BatteryModule::~BatteryModule()	16	static

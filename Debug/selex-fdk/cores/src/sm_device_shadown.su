@@ -1,7 +1,6 @@
-sm_mqtt_client.h:92:38:sm_mqtt_publics	40	static
-sm_mqtt_client.h:95:38:sm_mqtt_subscribes	24	static
-sm_mqtt_client.h:98:38:sm_mqtt_unsubscribes	16	static
-sm_mqtt_client.h:104:20:sm_mqtt_client_set_callback_event	16	static
+sm_mqtt_client.h:94:38:sm_mqtt_publics	40	static
+sm_mqtt_client.h:97:38:sm_mqtt_subscribes	24	static
+sm_mqtt_client.h:100:38:sm_mqtt_unsubscribes	16	static
 sm_device_shadown.c:31:9:sm_iot_init	24	static
 sm_device_shadown.c:44:25:iot_device_new	32	static
 sm_device_shadown.c:72:9:sm_iot_device_add	32	static
